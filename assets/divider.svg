@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 26">
+<defs>
+<linearGradient id="dl" x1="0" x2="1"><stop offset="0" stop-color="#0055FF" stop-opacity="0"/><stop offset="0.5" stop-color="#2979FF" stop-opacity="0.55"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></linearGradient>
+<filter id="dg" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<line x1="40" y1="13" x2="960" y2="13" stroke="url(#dl)" stroke-width="1.4"/>
+<circle cy="13" r="4" fill="#4D94FF" filter="url(#dg)"><animate attributeName="cx" values="60;940;60" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></circle>
+<circle cy="13" r="2.2" fill="#EAF2FF"><animate attributeName="cx" values="60;940;60" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></circle>
+</svg>

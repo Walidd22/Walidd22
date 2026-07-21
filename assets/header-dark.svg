@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0055FF"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="ascClip"><rect x="36" y="66.7" width="346.8" height="303.59999999999997"/></clipPath>
+</defs>
+<rect width="1000" height="400" rx="14" fill="#050508"/>
+<rect x="16" y="16" width="968" height="368" rx="11" fill="#0A0A0E" stroke="#1F3A66" stroke-width="1.4"/>
+<rect x="16" y="16" width="968" height="3" rx="1.5" fill="url(#accent)" opacity="0.9"/>
+<circle cx="40" cy="38" r="5.5" fill="#FF5F57"/>
+<circle cx="60" cy="38" r="5.5" fill="#FEBC2E"/>
+<circle cx="80" cy="38" r="5.5" fill="#28C840"/>
+<text x="500.0" y="42" fill="#8892A0" font-size="13" text-anchor="middle" letter-spacing="1">walid@adra: ~/portfolio</text>
+<line x1="16" y1="50" x2="984" y2="50" stroke="#1F3A66" stroke-width="1"/>
+<g clip-path="url(#ascClip)">
+<text x="42" y="76" fill="#2E63C4" font-size="9.3" xml:space="preserve" style="white-space:pre">
+<tspan x="42" dy="0">::::~+::+**~++*+++~:..`-*****===***++++~--:.    .&#x27;+&#x27;:&#x27;&#x27;````.</tspan>
+<tspan x="42" dy="9.6">::,:,=~+**+==*=****,&#x27;.&#x27;*xxxxXXxx===****+~~-,`   .&#x27;+&#x27;,&#x27;:&#x27;::&#x27;&#x27;</tspan>
+<tspan x="42" dy="9.6">&#x27;&#x27;:::-~~~~~+*+++**=~:`~x~-,-~+=xx====***+~--:.   ,=-,:,:::&#x27;:</tspan>
+<tspan x="42" dy="9.6">,,,,-,,,,,++*+*===x+&#x27;:X++**+,&#x27;:~=x=*+~,,,,--:  .:*xx~+=**+~~</tspan>
+<tspan x="42" dy="9.6">---~-~**-,+*x=x===x+&#x27;+X=+,,&#x27;&#x27;:-+=x+,&#x27;&#x27;&#x27;,,:&#x27;:,. &#x27;=xXXx=*=*+++</tspan>
+<tspan x="42" dy="9.6">*=#*~Xx=+,~xxxXx=*+*,xx=*++-,~*===-:,:`&#x27;:,-:,..*X=xx+*=+,-``</tspan>
+<tspan x="42" dy="9.6">,,#*,+=xx--+**==**=+*x=xx=*======*--~~--,&#x27;,-: :*X#Xx:**.~+``</tspan>
+<tspan x="42" dy="9.6">,,++,-~~,,,=xXX#X=*-*==x=**=x==xx=~~+****+~~,`::x##X+*=:&#x27;`:,</tspan>
+<tspan x="42" dy="9.6">,,,,--~+*=x##@@@#=*-*=*-:-+*+,:~+,:,-*===*+~,&#x27;,:xX##X++**+-,</tspan>
+<tspan x="42" dy="9.6">++*******++~~---,+x,~=+.```&#x27;&#x27;&#x27;``&#x27;. .:---~+~-&#x27;&#x27;,~XX#Xxx=*++++</tspan>
+<tspan x="42" dy="9.6">:&#x27;&#x27;`&#x27;&#x27;&#x27;`:,,:~,`&#x27;:--,:-+&#x27;+*,~==**+,:``..`.--,`,,xX=*++xxx*+++</tspan>
+<tspan x="42" dy="9.6">,,-`*+~~++++=~-,:,,:&#x27;&#x27;::~xx===x=x=+-:,~&#x27;:~:`&#x27;-=#=-~~--**::,,</tspan>
+<tspan x="42" dy="9.6">,:-,,,,---:::::,,~~:``.`&#x27;~x+-,:,,,-~++-:,``.+X#@@X+*==x,:&#x27;&#x27;:</tspan>
+<tspan x="42" dy="9.6">`.,---~--~--:,-++++~:...`:-~-:&#x27;``:-~-&#x27;.... ,###+~+*=xx*:,-~+</tspan>
+<tspan x="42" dy="9.6">&#x27;`&#x27;::::,-+**=XXX###X*&#x27;..```&#x27;,-,,:&#x27;:&#x27;``.  `~XX#X&#x27;&#x27;&#x27;::::&#x27;:&#x27;::,</tspan>
+<tspan x="42" dy="9.6">****xXXXXX#@Xx*+~-,:``-. ..``&#x27;&#x27;&#x27;``..   `+X##X#x&#x27;&#x27;:+~*++~-+,-</tspan>
+<tspan x="42" dy="9.6">xxxxX#XXX#X*-,`....  &#x27;x*,.     .      .`&#x27;,-*X#*`&#x27;:&#x27;&#x27;,:,,,-~,</tspan>
+<tspan x="42" dy="9.6">xXX#####@X,,:&#x27;:`.&#x27;&#x27;. ,x=x*&#x27;..     `&#x27;`    ..`,x~`&#x27;-::-,,,~+~:</tspan>
+<tspan x="42" dy="9.6">xxxxX#XXX*``&#x27;::,::&#x27;&#x27;`:==xx=~,:&#x27;&#x27;:,,,.   .``&#x27;&#x27;,,&#x27;&#x27;,&#x27;&#x27;::&#x27;::::,</tspan>
+<tspan x="42" dy="9.6">~=x*+,:&#x27;&#x27;:::`.&#x27;::,,,:&#x27;:+=xx=*~-,---:  `&#x27;&#x27;&#x27;&#x27;`.```:,`,,,:,,::&#x27;</tspan>
+<tspan x="42" dy="9.6">`&#x27;,*==-::::,-:```&#x27;&#x27;::::&#x27;,+=x=**~--,&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`..`:,&#x27;&#x27;`&#x27;,,:::::,:</tspan>
+<tspan x="42" dy="9.6">`..,**==*,,xxx+&#x27;&#x27;````&#x27;:::&#x27;:-+++-,::&#x27;```....&#x27;``::,&#x27;`&#x27;````````</tspan>
+<tspan x="42" dy="9.6">&#x27;`~x====*--**~-&#x27;,,:,:&#x27;`.::`&#x27;&#x27;&#x27;.`&#x27;&#x27;``:..&#x27;&#x27;`&#x27;&#x27;``&#x27;`::&#x27;-+~-,,::&#x27;</tspan>
+<tspan x="42" dy="9.6">``+x==*=+,,:&#x27;,+&#x27;:,,,,-,&#x27;:-`&#x27;&#x27;&#x27;&#x27;:&#x27;``&#x27;,`::`&#x27;&#x27;&#x27;````&#x27;`::+x#Xx=~-</tspan>
+<tspan x="42" dy="9.6">``+x=***~-,:,+*:&#x27;:,,,,--:-&#x27;:,,,::,&#x27;&#x27;,&#x27;:&#x27;&#x27;&#x27;&#x27;&#x27;````.````&#x27;-xx~--</tspan>
+<tspan x="42" dy="9.6">&#x27;:~x====+-::~~,&#x27;:::,,,,-:-&#x27;:,,,,,,:&#x27;,&#x27;&#x27;:::&#x27;`....```&#x27;&#x27;`.:+~--</tspan>
+<tspan x="42" dy="9.6">&#x27;&#x27;:~*+-,--:,-&#x27;``&#x27;&#x27;::,,,,:,:&#x27;,,,,,,:&#x27;:`&#x27;&#x27;&#x27;&#x27;&#x27;`. .&#x27;``&#x27;`&#x27;&#x27;&#x27;``&#x27;::</tspan>
+<tspan x="42" dy="9.6">``..,+*+---,,.```&#x27;::::,,:,:`:,,,:::`&#x27;`&#x27;&#x27;&#x27;`..  &#x27;``..&#x27;::&#x27;``.``</tspan>
+<tspan x="42" dy="9.6">,&#x27;`-::x=~~~~`.`..&#x27;:::::,::::,,,::::..&#x27;&#x27;&#x27;`... .. `&#x27;&#x27;&#x27;`````...</tspan>
+<tspan x="42" dy="9.6">,.&#x27;-,~x--~~,..`..``&#x27;:::::&#x27;.:,::::::````....  . .,:&#x27;&#x27;&#x27;````&#x27;&#x27;&#x27;</tspan>
+<tspan x="42" dy="9.6">&#x27;&#x27;:~~==~---&#x27;... .```&#x27;&#x27;&#x27;&#x27;:,,,,,::::&#x27;&#x27;&#x27;,,:```.`:`&#x27;::,,,,:&#x27;&#x27;&#x27;``</tspan>
+</text>
+<rect x="36" y="66.7" width="346.8" height="14" fill="#7FB0FF" opacity="0.20" filter="url(#glow)">
+<animate attributeName="y" values="66.7;350.29999999999995;66.7" dur="4.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect>
+</g>
+<text x="42" y="389.59999999999997" fill="#5A6472" font-size="10" letter-spacing="3">[ ASCII · SELF-PORTRAIT ]</text>
+<line x1="446" y1="68" x2="446" y2="370" stroke="#1F3A66" stroke-width="1" opacity="0.6"/>
+<text x="470" y="86" fill="url(#accent)" font-size="14.5" font-weight="700" letter-spacing="0.5">walid@adra</text>
+<text x="470" y="111" fill="#5A6472" font-size="14.5"  letter-spacing="0.5">-----------</text>
+<text x="470" y="136" fill="#4D94FF" font-size="14.5" font-weight="700">Subject<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="136" fill="#EDEDED" font-size="14.5">Walid Adra</text>
+<text x="470" y="161" fill="#4D94FF" font-size="14.5" font-weight="700">Role<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="161" fill="#EDEDED" font-size="14.5">Full-Stack Engineer</text>
+<text x="470" y="186" fill="#4D94FF" font-size="14.5" font-weight="700">Location<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="186" fill="#EDEDED" font-size="14.5">Tripoli, Lebanon  ·  Remote</text>
+<text x="470" y="211" fill="#4D94FF" font-size="14.5" font-weight="700">Status<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="211" fill="#EDEDED" font-size="14.5">Building · Shipping · Available</text>
+<text x="470" y="236" fill="#4D94FF" font-size="14.5" font-weight="700">Lang<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="236" fill="#EDEDED" font-size="14.5">TypeScript · JavaScript · Python</text>
+<text x="470" y="261" fill="#4D94FF" font-size="14.5" font-weight="700">Frontend<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="261" fill="#EDEDED" font-size="14.5">React · Next.js · Tailwind · GSAP</text>
+<text x="470" y="286" fill="#4D94FF" font-size="14.5" font-weight="700">Backend<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="286" fill="#EDEDED" font-size="14.5">Node · NestJS · Postgres · Redis</text>
+<text x="470" y="311" fill="#4D94FF" font-size="14.5" font-weight="700">Data/AI<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="311" fill="#EDEDED" font-size="14.5">Neo4j · n8n · Claude · WebSockets</text>
+<text x="470" y="336" fill="#4D94FF" font-size="14.5" font-weight="700">Focus<tspan fill="#5A6472" font-weight="400">:</tspan></text>
+<text x="598" y="336" fill="#EDEDED" font-size="14.5">Real-time systems · AI pipelines</text>
+<text x="470" y="367" fill="#4D94FF" font-size="14.5">walid@adra <tspan fill="#5A6472">~$</tspan> <tspan fill="#EDEDED">hire</tspan></text>
+<rect x="606" y="350" width="9" height="15" fill="url(#accent)"><animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite" keyTimes="0;0.5;0.5;1"/></rect>
+<rect x="470" y="383" width="15" height="9" rx="2" fill="#0055FF"/>
+<rect x="490" y="383" width="15" height="9" rx="2" fill="#2979FF"/>
+<rect x="510" y="383" width="15" height="9" rx="2" fill="#4D94FF"/>
+<rect x="530" y="383" width="15" height="9" rx="2" fill="#10B981"/>
+<rect x="550" y="383" width="15" height="9" rx="2" fill="#EDEDED"/>
+<rect x="570" y="383" width="15" height="9" rx="2" fill="#5A6472"/>
+</svg>

@@ -1,74 +1,69 @@
 <!-- ============================================================= -->
 <!--  Walid Adra — GitHub Profile README                            -->
-<!--  Aligned to walidadra.dev (source of truth)                    -->
-<!--  Theme: dark luxury · purple / indigo / violet                 -->
+<!--  Brand: walidadra.dev + webrift.dev — electric blue on black   -->
+<!--  Fonts: monospace (Space Mono feel) · Terminal / HUD identity  -->
 <!-- ============================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=200&section=header&text=Walid%20Adra&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20I%20ship%20production%20systems%20under%20deadline&descSize=18&descAlignY=58&animation=fadeIn" alt="Walid Adra banner" />
-
 <a href="https://walidadra.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Full-stack+TypeScript+%2F+JavaScript+developer;Web+apps+%C2%B7+mobile+%C2%B7+SaaS+%C2%B7+real-time+systems;Self-taught+%E2%80%94+1%2C000%2B+hours+of+build%2C+break%2C+repeat;Founder+%40+WebRift+%E2%80%94+webrift.dev" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+    <img alt="Walid Adra — full-stack engineer" src="./assets/header-dark.svg" width="100%" />
+  </picture>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Tripoli%2C%20Lebanon-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Available%20for-Contract%20%26%20Freelance-8B5CF6?style=flat-square" alt="Available" />
-<img src="https://img.shields.io/badge/Remote-EMEA%20hours-A855F7?style=flat-square" alt="Remote" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2979FF&center=true&vCenter=true&width=560&lines=build+systems%2C+not+demos;self-taught+%C2%B7+1%2C000%2B+hours;shipping+production+under+deadline;available+for+contract+work" alt="typing" /></a>
 
-<br/><br/>
+<br/>
 
-<a href="https://walidadra.dev"><img src="https://img.shields.io/badge/Portfolio-walidadra.dev-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://webrift.dev"><img src="https://img.shields.io/badge/Hire%20me-webrift.dev-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="WebRift" /></a>
-<a href="https://www.linkedin.com/in/walid-adra-452363273/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/web_rift"><img src="https://img.shields.io/badge/Instagram-@web__rift-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:w22a.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Walidd22&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Walidd22?style=flat-square&color=6366F1&label=Followers" alt="Followers" />
+<a href="https://walidadra.dev"><img src="https://img.shields.io/badge/PORTFOLIO-walidadra.dev-0055FF?style=for-the-badge&labelColor=0A0A0E" alt="Portfolio" /></a>
+<a href="https://webrift.dev"><img src="https://img.shields.io/badge/HIRE_ME-webrift.dev-10B981?style=for-the-badge&labelColor=0A0A0E" alt="WebRift" /></a>
+<a href="https://www.linkedin.com/in/walid-adra-452363273/"><img src="https://img.shields.io/badge/LINKEDIN-walid--adra-2979FF?style=for-the-badge&labelColor=0A0A0E" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/web_rift"><img src="https://img.shields.io/badge/INSTAGRAM-@web__rift-4D94FF?style=for-the-badge&labelColor=0A0A0E" alt="Instagram" /></a>
+<a href="mailto:w22a.work@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-EDEDED?style=for-the-badge&labelColor=0A0A0E" alt="Email" /></a>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👋 About
+## `$ whoami`
 
-Full-stack developer based in **Tripoli, Lebanon**, building production-ready applications on modern JavaScript stacks. No bootcamp, no visible path in — I opened YouTube, typed `<h1>` into a file to see what happened, and kept going for 1,000+ hours: HTML → CSS → JavaScript → React, building things, breaking them, and reading the errors until they made sense.
+Self-taught full-stack developer from **Tripoli, Lebanon**. No bootcamp, no visible path in — I opened a laptop, typed `<h1>` into a file to see what happened, and kept going for 1,000+ hours: `HTML → CSS → JavaScript → React`, building, breaking, and reading the errors until they made sense.
 
-Since then I've shipped real systems under deadline — SaaS platforms, real-time trading interfaces, and end-to-end full-stack products. Today I run **WebRift** (webrift.dev), a small agency where I build production apps for founders, and I'm developing a local-first **AI Content Studio** on the side.
+Since then I've shipped real systems under deadline — SaaS platforms, real-time trading interfaces, and end-to-end products. I run **[WebRift](https://webrift.dev)**, a small agency building production apps for founders, and I build local-first AI systems on the side.
 
-- 🛠️ **Full-stack** — React / Next.js front ends through Node.js / NestJS / Supabase back ends
-- ⚡ **Real-time systems** — WebSocket dashboards, streaming AI chat, live data under load
-- 🚀 **End-to-end ownership** — architecture → delivery → production fixes, without hand-holding
-- 📬 **Open to** — contract & freelance work, remote, EMEA-friendly hours
+```txt
+▸ full-stack     React / Next.js  →  Node / NestJS / Supabase
+▸ real-time      WebSocket dashboards · streaming AI · live data under load
+▸ ownership      architecture → delivery → production fixes, no hand-holding
+▸ open to        contract & freelance · remote · EMEA hours
+```
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧰 Tech Stack
+## `$ cat stack.txt`
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs,nodejs,nestjs,prisma,postgres,supabase,redis,neo4j,docker,git,vercel,figma" alt="stack" />
 
-**Frontend**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,threejs,figma" alt="Frontend" />&nbsp;<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />&nbsp;<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/GSAP-0055FF?style=flat-square&labelColor=0A0A0E" />
+<img src="https://img.shields.io/badge/WebSockets-2979FF?style=flat-square&labelColor=0A0A0E" />
+<img src="https://img.shields.io/badge/n8n-10B981?style=flat-square&labelColor=0A0A0E" />
+<img src="https://img.shields.io/badge/Claude_SDK-4D94FF?style=flat-square&labelColor=0A0A0E" />
+<img src="https://img.shields.io/badge/Stripe-0055FF?style=flat-square&labelColor=0A0A0E" />
+<img src="https://img.shields.io/badge/Expo-2979FF?style=flat-square&labelColor=0A0A0E" />
 
-**Backend & Databases**
+</div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,supabase,redis,neo4j" alt="Backend and databases" />&nbsp;<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Tooling & Automation**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="Tooling" />&nbsp;<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />&nbsp;<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-
----
-
-## 🚀 Featured Projects
+## `$ ls ~/projects`
 
 <details open>
 <summary><b>🤖 AI Content Studio</b> — local-first, on-prem AI content pipeline</summary>
@@ -80,10 +75,9 @@ The content studio I built for my own pipeline — now licensable as a private, 
 | | |
 | :-- | :-- |
 | **Stack** | Next.js 16 · React 19 · Neo4j · n8n · Three.js · Claude SDK |
-| **Highlights** | 33 dashboards · 79 API routes · a local Neo4j knowledge graph that grows with every video, topic, and insight · n8n automation |
-| **Role** | Solo Developer — design to deploy |
-| **Status** | 🟣 Active development · private / on-prem |
-| **Access** | Private — walkthrough on request |
+| **Scale** | 33 dashboards · 79 API routes · a Neo4j knowledge graph that grows with every video, topic & insight |
+| **Role** | Solo — design to deploy |
+| **Status** | 🔵 Active · private / on-prem — walkthrough on request |
 
 </details>
 
@@ -92,14 +86,13 @@ The content studio I built for my own pipeline — now licensable as a private, 
 
 <br/>
 
-A production restaurant ordering platform built from scratch: auth, real-time order handling, admin dashboard, WhatsApp + cash-on-delivery checkout, push notifications, gamification, dual currency, PWA, Redis caching — 10+ integrated systems, end to end.
+A production restaurant ordering platform built from scratch: auth, real-time orders, admin dashboard, WhatsApp + cash-on-delivery checkout, push notifications, gamification, dual currency, PWA, Redis caching — 10+ integrated systems, end to end.
 
 | | |
 | :-- | :-- |
-| **Stack** | Node.js · Next.js 16 · React 19 · Supabase · Redis |
+| **Stack** | Next.js 16 · React 19 · Supabase · Redis |
 | **Role** | Full-Stack Engineer — end-to-end delivery |
-| **Status** | 🟢 Live |
-| **Live** | [myypizza.com](https://myypizza.com) |
+| **Status** | 🟢 Live → [myypizza.com](https://myypizza.com) |
 | **Source** | Private — client project |
 
 </details>
@@ -115,25 +108,8 @@ Joined an AI trading platform mid-build and led frontend delivery under tight de
 | :-- | :-- |
 | **Stack** | React · TypeScript · WebSockets · Tailwind · (NestJS backend) |
 | **Role** | Lead Frontend Engineer · ~3 months · 15+ pages |
-| **Status** | 🟢 Live |
-| **Live** | [aristrading.ai](https://aristrading.ai) |
+| **Status** | 🟢 Live → [aristrading.ai](https://aristrading.ai) |
 | **Case study** | [walidadra.dev → ArisAI](https://walidadra.dev/projects/aris-ai.html) |
-
-</details>
-
-<details>
-<summary><b>🛰️ WebRift</b> — agency brand & website</summary>
-
-<br/>
-
-The home of my agency — animated, hand-built static site with project showcases and case studies.
-
-| | |
-| :-- | :-- |
-| **Stack** | HTML5 · CSS3 · JavaScript · GSAP · Lenis |
-| **Role** | Solo — design & development |
-| **Status** | 🟢 Live |
-| **Live** | [webrift.dev](https://webrift.dev) |
 
 </details>
 
@@ -142,81 +118,76 @@ The home of my agency — animated, hand-built static site with project showcase
 
 <br/>
 
-A design-complete front end for an AI fashion-photoshoot product — on-model photos and video generated from a source garment. Full multi-step studio wizard, credit system, and marketing site. A UI/architecture prototype: the generation flow runs end-to-end over a **mocked engine**, ready to wire into a real provider.
+A design-complete front end for an AI fashion-photoshoot product — on-model photos and video from a source garment. Full studio wizard, credit system, and marketing site. A UI/architecture prototype: the generation flow runs end-to-end over a **mocked engine**, ready to wire into a real provider.
 
 | | |
 | :-- | :-- |
 | **Stack** | Next.js 16 · React 19 · Tailwind v4 · Radix UI · Server Actions |
 | **Role** | Solo — design & frontend |
-| **Status** | 🟣 Prototype — front end complete, generation mocked |
+| **Status** | 🔵 Prototype — front end complete, generation mocked |
 
 </details>
 
-> 💡 My personal site is open-source too: **[walidadra-portfolio](https://github.com/Walidd22/walidadra-portfolio)** — the animated site this profile mirrors ([walidadra.dev](https://walidadra.dev)).
-
----
-
-## 💼 Experience
-
-**Founder & Full-Stack Engineer** · WebRift · *now*
-Run a small agency (webrift.dev) building production apps for founders — design, build, and ship end to end. In parallel, building a local-first AI Content Studio.
-`Next.js` · `Full-stack` · `Design` · `Delivery`
-
-**Lead Frontend Engineer** · ArisAI — AI trading platform · *~3 months*
-Joined mid-build and owned ~80% of the frontend across a monorepo — 15+ real-time pages: trading dashboards, signal rooms, streaming AI chat, content engine. React + TypeScript + WebSockets against a NestJS backend.
-`React` · `TypeScript` · `WebSockets` · `Frontend architecture`
-
-**Full-Stack Engineer** · MyPizza *(solo build)* · myypizza.com
-Built a full restaurant ordering platform from scratch — auth, payments, real-time orders, admin, PWA, Redis caching, 10+ integrated systems. Owned architecture, delivery, and post-launch support.
-`Node.js` · `Next.js` · `Supabase` · `Redis`
-
-**Software Engineering Intern** · Telecloud Vision · Beirut, Lebanon
-First production code — code review, git flow, deploy pipelines, real users. Where I started caring about the gap between "works on my machine" and "works in production."
-`Web development` · `Production engineering`
-
----
-
-## 🔭 Current Focus
-
-```yaml
-building:   WebRift client products · a local-first AI Content Studio
-working_on: Real-time systems · full-stack SaaS · production delivery
-learning:   AI content pipelines · knowledge graphs · automation
-open_to:    Contract & freelance work · remote · EMEA hours
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- These reflect PUBLIC activity. To include your private work without exposing repo
-     names, enable: Settings → Profile → "Include private contributions on my profile". -->
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Walidd22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Walidd22&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://walidadra.dev"><img src="https://img.shields.io/badge/Portfolio-walidadra.dev-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://webrift.dev"><img src="https://img.shields.io/badge/Hire%20me-webrift.dev-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="WebRift" /></a>
-<a href="https://www.linkedin.com/in/walid-adra-452363273/"><img src="https://img.shields.io/badge/LinkedIn-walid--adra-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/web_rift"><img src="https://img.shields.io/badge/Instagram-@web__rift-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:w22a.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+<details>
+<summary><b>🛰️ WebRift</b> — agency brand & website</summary>
 
 <br/>
 
+The home of my agency — an animated, hand-built static site with project showcases and case studies.
+
+| | |
+| :-- | :-- |
+| **Stack** | HTML5 · CSS3 · JavaScript · GSAP · Lenis |
+| **Role** | Solo — design & development |
+| **Status** | 🟢 Live → [webrift.dev](https://webrift.dev) · [source](https://github.com/Walidd22/webrift-website) |
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `$ git log --author="Walid Adra"`
+
+```log
+* now        Founder & Full-Stack Engineer · WebRift
+|              build & ship production apps for founders, end to end
+|
+* ~3 months  Lead Frontend Engineer · ArisAI (AI trading platform)
+|              owned ~80% of the frontend — 15+ real-time pages, React + WebSockets
+|
+* solo build Full-Stack Engineer · MyPizza (myypizza.com)
+|              full ordering platform from scratch — Next.js + Supabase + Redis
+|
+* internship Software Engineering Intern · Telecloud Vision, Beirut
+                first production code — code review, git flow, real users
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `$ cat focus.yaml`
+
+```yaml
+building:   WebRift client products · a local-first AI Content Studio
+working_on: real-time systems · full-stack SaaS · production delivery
+learning:   AI content pipelines · knowledge graphs · automation
+open_to:    contract & freelance · remote · EMEA hours
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `$ gh api /stats`
+
 <div align="center">
-<i>Build, ship, teach, repeat.</i>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Walidd22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2979FF&icon_color=10B981&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Walidd22&hide_border=true&background=0D1117&ring=2979FF&fire=10B981&currStreakLabel=2979FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8B5CF6,100:6366F1&height=120&section=footer" alt="footer" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<a href="https://walidadra.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img alt="build · ship · teach · repeat" src="./assets/footer-dark.svg" width="100%" />
+  </picture>
+</a>
