@@ -158,22 +158,12 @@ open_to:    contract & freelance · remote · EMEA hours
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## `$ ./stats.sh --live`
+## `$ ./stats.sh --last-year`
 
-<div align="center">
-
-<!-- LIVE — reads the contribution graph, auto-updates, includes private -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Walidd22&hide_border=true&background=0A0A0E&border=1F3A66&stroke=1F3A66&ring=2979FF&fire=10B981&currStreakNum=EDEDED&currStreakLabel=2979FF&sideNums=EDEDED&sideLabels=9FB0C0&dates=6B7685" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Walidd22&hide_border=true&background=FFFFFF&border=CBD6E8&stroke=CBD6E8&ring=0055FF&fire=0EA372&currStreakNum=14181F&currStreakLabel=0055FF&sideNums=14181F&sideLabels=5A6472&dates=8A94A2" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+  <img alt="GitHub stats — 479 contributions, 105 peak day, 31 active days, 16d streak, 7 repos" src="./assets/stats-dark.svg" width="100%" />
 </picture>
-
-<br/>
-
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Walidd22&show_icons=true&include_all_commits=true&hide_border=true&title_color=2979FF&icon_color=10B981&text_color=EDEDED&bg_color=0A0A0E#gh-dark-mode-only" />
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Walidd22&show_icons=true&include_all_commits=true&hide_border=true&title_color=0055FF&icon_color=0EA372&text_color=14181F&bg_color=FFFFFF#gh-light-mode-only" />
-
-</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
