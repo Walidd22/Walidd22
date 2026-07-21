@@ -56,41 +56,41 @@
 <rect x="36" y="85.6" width="523" height="16" fill="#0055FF" opacity="0.18" filter="url(#gl)"><animate attributeName="y" values="85.6;569.6;85.6" dur="4.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></rect></g>
 <text x="42" y="603.6" fill="#8A94A2" font-size="10" letter-spacing="3">[ ASCII SELF-PORTRAIT ]</text>
 <line x1="576" y1="72" x2="576" y2="634" stroke="#CBD6E8" opacity="0.6"/>
-<text x="602" y="100" fill="url(#ac)" font-size="15" font-weight="700">walid@Walidd22</text>
-<text x="602" y="124" fill="#8A94A2" font-size="15">---------------</text>
-<text x="602" y="148" fill="#0055FF" font-size="15" font-weight="700">Subject<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="148" fill="#14181F" font-size="15">Walid Adra</text>
-<text x="602" y="172" fill="#0055FF" font-size="15" font-weight="700">Role<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="172" fill="#14181F" font-size="15">Full-Stack Engineer / AI Builder</text>
-<text x="602" y="196" fill="#0055FF" font-size="15" font-weight="700">Origin<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="196" fill="#14181F" font-size="15">Tripoli, Lebanon / Remote</text>
-<text x="602" y="220" fill="#0055FF" font-size="15" font-weight="700">Status<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="220" fill="#14181F" font-size="15">Building / Shipping / Available</text>
-<text x="602" y="244" fill="#0055FF" font-size="15" font-weight="700">ToolChain<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="244" fill="#14181F" font-size="15">Claude Code / Git / Docker / Vercel</text>
-<text x="602" y="280" fill="#0055FF" font-size="15" font-weight="700">Core.Lang<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="280" fill="#14181F" font-size="15">TypeScript / JavaScript / Python</text>
-<text x="602" y="304" fill="#0055FF" font-size="15" font-weight="700">Core.Frontend<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="304" fill="#14181F" font-size="15">React 19 / Next.js 16 / Tailwind / GSAP</text>
-<text x="602" y="328" fill="#0055FF" font-size="15" font-weight="700">Core.Backend<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="328" fill="#14181F" font-size="15">NestJS / Node.js / Supabase / Prisma</text>
-<text x="602" y="352" fill="#0055FF" font-size="15" font-weight="700">Core.AI<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="352" fill="#14181F" font-size="15">Claude SDK / n8n / Neo4j / WebSockets</text>
-<text x="602" y="376" fill="#0055FF" font-size="15" font-weight="700">Core.Database<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="376" fill="#14181F" font-size="15">PostgreSQL / Redis / Neo4j</text>
-<text x="602" y="400" fill="#0055FF" font-size="15" font-weight="700">Core.Infra<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="400" fill="#14181F" font-size="15">Docker / Vercel / CI-CD</text>
-<text x="602" y="436" fill="#0055FF" font-size="15" font-weight="700">Human.Langs<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="436" fill="#14181F" font-size="15">AR / EN</text>
-<text x="602" y="460" fill="#0EA372" font-size="14" font-weight="700" letter-spacing="0.5">-- Contact --</text>
-<text x="602" y="484" fill="#0055FF" font-size="15" font-weight="700">Grid.Mail<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="484" fill="#14181F" font-size="15">w22a.work@gmail.com</text>
-<text x="602" y="508" fill="#0055FF" font-size="15" font-weight="700">Grid.Site<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="508" fill="#14181F" font-size="15">walidadra.dev</text>
-<text x="602" y="532" fill="#0055FF" font-size="15" font-weight="700">Grid.GitHub<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
-<text x="758" y="532" fill="#14181F" font-size="15">Walidd22</text>
-<text x="602" y="556" fill="#0EA372" font-size="14" font-weight="700" letter-spacing="0.5">-- Live.Stats --</text>
-<text x="602" y="580" fill="#8A94A2" font-size="14">live cards + stats below <tspan fill="#0EA372">v</tspan></text>
+<text x="602" y="100" fill="url(#ac)" font-size="14" font-weight="700">walid@Walidd22</text>
+<text x="602" y="124" fill="#8A94A2" font-size="14">---------------</text>
+<text x="602" y="148" fill="#0055FF" font-size="14" font-weight="700">Subject<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="148" fill="#14181F" font-size="14">Walid Adra</text>
+<text x="602" y="172" fill="#0055FF" font-size="14" font-weight="700">Role<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="172" fill="#14181F" font-size="14">Full-Stack Engineer / AI Builder</text>
+<text x="602" y="196" fill="#0055FF" font-size="14" font-weight="700">Origin<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="196" fill="#14181F" font-size="14">Tripoli, Lebanon / Remote</text>
+<text x="602" y="220" fill="#0055FF" font-size="14" font-weight="700">Status<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="220" fill="#14181F" font-size="14">Building / Shipping / Available</text>
+<text x="602" y="244" fill="#0055FF" font-size="14" font-weight="700">ToolChain<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="244" fill="#14181F" font-size="14">Claude Code / Git / Docker / Vercel</text>
+<text x="602" y="280" fill="#0055FF" font-size="14" font-weight="700">Core.Lang<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="280" fill="#14181F" font-size="14">TypeScript / JavaScript / Python</text>
+<text x="602" y="304" fill="#0055FF" font-size="14" font-weight="700">Core.Frontend<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="304" fill="#14181F" font-size="14">React 19 / Next.js 16 / Tailwind / GSAP</text>
+<text x="602" y="328" fill="#0055FF" font-size="14" font-weight="700">Core.Backend<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="328" fill="#14181F" font-size="14">NestJS / Node.js / Supabase / Prisma</text>
+<text x="602" y="352" fill="#0055FF" font-size="14" font-weight="700">Core.AI<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="352" fill="#14181F" font-size="14">Claude SDK / n8n / Neo4j / WebSockets</text>
+<text x="602" y="376" fill="#0055FF" font-size="14" font-weight="700">Core.Database<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="376" fill="#14181F" font-size="14">PostgreSQL / Redis / Neo4j</text>
+<text x="602" y="400" fill="#0055FF" font-size="14" font-weight="700">Core.Infra<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="400" fill="#14181F" font-size="14">Docker / Vercel / CI-CD</text>
+<text x="602" y="436" fill="#0055FF" font-size="14" font-weight="700">Human.Langs<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="436" fill="#14181F" font-size="14">AR / EN</text>
+<text x="602" y="460" fill="#0EA372" font-size="13" font-weight="700" letter-spacing="0.5">-- Contact --</text>
+<text x="602" y="484" fill="#0055FF" font-size="14" font-weight="700">Grid.Mail<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="484" fill="#14181F" font-size="14">w22a.work@gmail.com</text>
+<text x="602" y="508" fill="#0055FF" font-size="14" font-weight="700">Grid.Site<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="508" fill="#14181F" font-size="14">walidadra.dev</text>
+<text x="602" y="532" fill="#0055FF" font-size="14" font-weight="700">Grid.GitHub<tspan fill="#8A94A2" font-weight="400"> :</tspan></text>
+<text x="730" y="532" fill="#14181F" font-size="14">Walidd22</text>
+<text x="602" y="556" fill="#0EA372" font-size="13" font-weight="700" letter-spacing="0.5">-- Live.Stats --</text>
+<text x="602" y="580" fill="#8A94A2" font-size="13">live cards + stats below <tspan fill="#0EA372">v</tspan></text>
 <rect x="602" y="598" width="16" height="10" rx="2" fill="#0055FF"/>
 <rect x="624" y="598" width="16" height="10" rx="2" fill="#2979FF"/>
 <rect x="646" y="598" width="16" height="10" rx="2" fill="#4D94FF"/>
