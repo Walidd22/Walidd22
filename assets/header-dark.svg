@@ -1,83 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<defs>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0055FF"/><stop offset="1" stop-color="#10B981"/></linearGradient>
-<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="ascClip"><rect x="36" y="66.7" width="346.8" height="303.59999999999997"/></clipPath>
-</defs>
-<rect width="1000" height="400" rx="14" fill="#050508"/>
-<rect x="16" y="16" width="968" height="368" rx="11" fill="#0A0A0E" stroke="#1F3A66" stroke-width="1.4"/>
-<rect x="16" y="16" width="968" height="3" rx="1.5" fill="url(#accent)" opacity="0.9"/>
-<circle cx="40" cy="38" r="5.5" fill="#FF5F57"/>
-<circle cx="60" cy="38" r="5.5" fill="#FEBC2E"/>
-<circle cx="80" cy="38" r="5.5" fill="#28C840"/>
-<text x="500.0" y="42" fill="#8892A0" font-size="13" text-anchor="middle" letter-spacing="1">walid@adra: ~/portfolio</text>
-<line x1="16" y1="50" x2="984" y2="50" stroke="#1F3A66" stroke-width="1"/>
-<g clip-path="url(#ascClip)">
-<text x="42" y="76" fill="#2E63C4" font-size="9.3" xml:space="preserve" style="white-space:pre">
-<tspan x="42" dy="0">::::~+::+**~++*+++~:..`-*****===***++++~--:.    .&#x27;+&#x27;:&#x27;&#x27;````.</tspan>
-<tspan x="42" dy="9.6">::,:,=~+**+==*=****,&#x27;.&#x27;*xxxxXXxx===****+~~-,`   .&#x27;+&#x27;,&#x27;:&#x27;::&#x27;&#x27;</tspan>
-<tspan x="42" dy="9.6">&#x27;&#x27;:::-~~~~~+*+++**=~:`~x~-,-~+=xx====***+~--:.   ,=-,:,:::&#x27;:</tspan>
-<tspan x="42" dy="9.6">,,,,-,,,,,++*+*===x+&#x27;:X++**+,&#x27;:~=x=*+~,,,,--:  .:*xx~+=**+~~</tspan>
-<tspan x="42" dy="9.6">---~-~**-,+*x=x===x+&#x27;+X=+,,&#x27;&#x27;:-+=x+,&#x27;&#x27;&#x27;,,:&#x27;:,. &#x27;=xXXx=*=*+++</tspan>
-<tspan x="42" dy="9.6">*=#*~Xx=+,~xxxXx=*+*,xx=*++-,~*===-:,:`&#x27;:,-:,..*X=xx+*=+,-``</tspan>
-<tspan x="42" dy="9.6">,,#*,+=xx--+**==**=+*x=xx=*======*--~~--,&#x27;,-: :*X#Xx:**.~+``</tspan>
-<tspan x="42" dy="9.6">,,++,-~~,,,=xXX#X=*-*==x=**=x==xx=~~+****+~~,`::x##X+*=:&#x27;`:,</tspan>
-<tspan x="42" dy="9.6">,,,,--~+*=x##@@@#=*-*=*-:-+*+,:~+,:,-*===*+~,&#x27;,:xX##X++**+-,</tspan>
-<tspan x="42" dy="9.6">++*******++~~---,+x,~=+.```&#x27;&#x27;&#x27;``&#x27;. .:---~+~-&#x27;&#x27;,~XX#Xxx=*++++</tspan>
-<tspan x="42" dy="9.6">:&#x27;&#x27;`&#x27;&#x27;&#x27;`:,,:~,`&#x27;:--,:-+&#x27;+*,~==**+,:``..`.--,`,,xX=*++xxx*+++</tspan>
-<tspan x="42" dy="9.6">,,-`*+~~++++=~-,:,,:&#x27;&#x27;::~xx===x=x=+-:,~&#x27;:~:`&#x27;-=#=-~~--**::,,</tspan>
-<tspan x="42" dy="9.6">,:-,,,,---:::::,,~~:``.`&#x27;~x+-,:,,,-~++-:,``.+X#@@X+*==x,:&#x27;&#x27;:</tspan>
-<tspan x="42" dy="9.6">`.,---~--~--:,-++++~:...`:-~-:&#x27;``:-~-&#x27;.... ,###+~+*=xx*:,-~+</tspan>
-<tspan x="42" dy="9.6">&#x27;`&#x27;::::,-+**=XXX###X*&#x27;..```&#x27;,-,,:&#x27;:&#x27;``.  `~XX#X&#x27;&#x27;&#x27;::::&#x27;:&#x27;::,</tspan>
-<tspan x="42" dy="9.6">****xXXXXX#@Xx*+~-,:``-. ..``&#x27;&#x27;&#x27;``..   `+X##X#x&#x27;&#x27;:+~*++~-+,-</tspan>
-<tspan x="42" dy="9.6">xxxxX#XXX#X*-,`....  &#x27;x*,.     .      .`&#x27;,-*X#*`&#x27;:&#x27;&#x27;,:,,,-~,</tspan>
-<tspan x="42" dy="9.6">xXX#####@X,,:&#x27;:`.&#x27;&#x27;. ,x=x*&#x27;..     `&#x27;`    ..`,x~`&#x27;-::-,,,~+~:</tspan>
-<tspan x="42" dy="9.6">xxxxX#XXX*``&#x27;::,::&#x27;&#x27;`:==xx=~,:&#x27;&#x27;:,,,.   .``&#x27;&#x27;,,&#x27;&#x27;,&#x27;&#x27;::&#x27;::::,</tspan>
-<tspan x="42" dy="9.6">~=x*+,:&#x27;&#x27;:::`.&#x27;::,,,:&#x27;:+=xx=*~-,---:  `&#x27;&#x27;&#x27;&#x27;`.```:,`,,,:,,::&#x27;</tspan>
-<tspan x="42" dy="9.6">`&#x27;,*==-::::,-:```&#x27;&#x27;::::&#x27;,+=x=**~--,&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`..`:,&#x27;&#x27;`&#x27;,,:::::,:</tspan>
-<tspan x="42" dy="9.6">`..,**==*,,xxx+&#x27;&#x27;````&#x27;:::&#x27;:-+++-,::&#x27;```....&#x27;``::,&#x27;`&#x27;````````</tspan>
-<tspan x="42" dy="9.6">&#x27;`~x====*--**~-&#x27;,,:,:&#x27;`.::`&#x27;&#x27;&#x27;.`&#x27;&#x27;``:..&#x27;&#x27;`&#x27;&#x27;``&#x27;`::&#x27;-+~-,,::&#x27;</tspan>
-<tspan x="42" dy="9.6">``+x==*=+,,:&#x27;,+&#x27;:,,,,-,&#x27;:-`&#x27;&#x27;&#x27;&#x27;:&#x27;``&#x27;,`::`&#x27;&#x27;&#x27;````&#x27;`::+x#Xx=~-</tspan>
-<tspan x="42" dy="9.6">``+x=***~-,:,+*:&#x27;:,,,,--:-&#x27;:,,,::,&#x27;&#x27;,&#x27;:&#x27;&#x27;&#x27;&#x27;&#x27;````.````&#x27;-xx~--</tspan>
-<tspan x="42" dy="9.6">&#x27;:~x====+-::~~,&#x27;:::,,,,-:-&#x27;:,,,,,,:&#x27;,&#x27;&#x27;:::&#x27;`....```&#x27;&#x27;`.:+~--</tspan>
-<tspan x="42" dy="9.6">&#x27;&#x27;:~*+-,--:,-&#x27;``&#x27;&#x27;::,,,,:,:&#x27;,,,,,,:&#x27;:`&#x27;&#x27;&#x27;&#x27;&#x27;`. .&#x27;``&#x27;`&#x27;&#x27;&#x27;``&#x27;::</tspan>
-<tspan x="42" dy="9.6">``..,+*+---,,.```&#x27;::::,,:,:`:,,,:::`&#x27;`&#x27;&#x27;&#x27;`..  &#x27;``..&#x27;::&#x27;``.``</tspan>
-<tspan x="42" dy="9.6">,&#x27;`-::x=~~~~`.`..&#x27;:::::,::::,,,::::..&#x27;&#x27;&#x27;`... .. `&#x27;&#x27;&#x27;`````...</tspan>
-<tspan x="42" dy="9.6">,.&#x27;-,~x--~~,..`..``&#x27;:::::&#x27;.:,::::::````....  . .,:&#x27;&#x27;&#x27;````&#x27;&#x27;&#x27;</tspan>
-<tspan x="42" dy="9.6">&#x27;&#x27;:~~==~---&#x27;... .```&#x27;&#x27;&#x27;&#x27;:,,,,,::::&#x27;&#x27;&#x27;,,:```.`:`&#x27;::,,,,:&#x27;&#x27;&#x27;``</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 660" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs><linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0055FF"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+<filter id="gl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="cl"><rect x="36" y="85.6" width="523" height="504.0"/></clipPath></defs>
+<rect width="1120" height="660" rx="14" fill="#050508"/>
+<rect x="18" y="18" width="1084" height="624" rx="11" fill="#0A0A0E" stroke="#1F3A66" stroke-width="1.4"/>
+<rect x="18" y="18" width="1084" height="3" rx="1.5" fill="url(#ac)" opacity="0.9"/>
+<circle cx="42" cy="40" r="5.5" fill="#FF5F57"/>
+<circle cx="62" cy="40" r="5.5" fill="#FEBC2E"/>
+<circle cx="82" cy="40" r="5.5" fill="#28C840"/>
+<text x="560.0" y="44" fill="#8892A0" font-size="13" text-anchor="middle" letter-spacing="1">walid@Walidd22: ~/portfolio -- ./profile.sh --live</text>
+<line x1="18" y1="56" x2="1102" y2="56" stroke="#1F3A66"/>
+<text x="42" y="77.6" fill="#5A6472" font-size="10" letter-spacing="3">SELF.MAP</text>
+<g clip-path="url(#cl)"><text x="42" y="96" fill="#2E63C4" font-size="10.4" xml:space="preserve" style="white-space:pre">
+<tspan x="42" dy="0">^^^^^,s*,,^*scs++**co***c+,&#x27;..`&#x27;+ccsssssooooossccccc**+==-:.      .:+*&#x27;,:&#x27;:&#x27;``````</tspan>
+<tspan x="42" dy="12.5">^^^^^,ox~=+sBxxxAAxsBsoooo^:```~xAAABBBBBBAAAxxxxoooosc++=~,.     .`+c&#x27;-^&#x27;-&#x27;:,:&#x27;&#x27;`</tspan>
+<tspan x="42" dy="12.5">,:,~-,^sosos+=+sxooxocssox+~&#x27;`:cBAxooxBXXXBAxxooooossc**++=~^`    .,s+&#x27;=^:~&#x27;---:,,</tspan>
+<tspan x="42" dy="12.5">::,,^^-~===++**co*cccssoxx*-,`+Xs~~^,,,-=cxBAAAAxxxoooss*+=~~:    .^xo+=~--^^^,:::</tspan>
+<tspan x="42" dy="12.5">--~~====~~~~-+ccossooxAAAAs,:^#A*sxxxs=,:,-*xAAxosc+~~-~-~+=~`  ..~oABA++oxxxoc**+</tspan>
+<tspan x="42" dy="12.5">~~~~~~~~+**=-~ssxAxxxxxxxAo^:*@xxo++=~-^-=*sBBxs~,:&#x27;&#x27;:,::&#x27;:~~&#x27;  .^BBXXXAxxxooxxxxo</tspan>
+<tspan x="42" dy="12.5">cooxAo+XXoo+--sxBAxBBAAxxxo,,BBxo*-=~:`,==soAAo~,,,:^-=+*=^:~, .&#x27;xXoABBAsocBs~^:::</tspan>
+<tspan x="42" dy="12.5">**x@s~=xAxAo=^cxABBXXAAxc*o+o#AxxoosssccsxxxAxc---+:` :&#x27;:-=~~&#x27; `sX#ABBB=coX*`*o:``</tspan>
+<tspan x="42" dy="12.5">--=#A--*ooBX+~~ccssoxxoscBs=XAAABAxxooAAxxxAAxc==***+=+-,^~==` ^sA####A,-Bo`:xc&#x27;``</tspan>
+<tspan x="42" dy="12.5">~~~oA=~+cc*=~~^oxABBXXXoAo+=BAABXBxssoAAAxAXBAs=+*ssscccc*+==&#x27;:-^~X####c~#o,&#x27;&#x27;`,=~</tspan>
+<tspan x="42" dy="12.5">~~~-------~=+*o@#@@@@@@Ax*+*Bxxo*==*xBAs*=cxxc~=*=coxxxosc*==:,-,=###@##c*xAo+-:,,</tspan>
+<tspan x="42" dy="12.5">=~~=+*csxABXX###@@##XXBxAB~=BAo-&#x27;`^===-,&#x27;::--:`&#x27;:~*ssooosc+==`^+-*#A###XBo*+coxxos</tspan>
+<tspan x="42" dy="12.5">osoooossc**+==~-^^,,,,,^Ax~-sxx, :&#x27;.&#x27;:::::`,&#x27;..  `,~=^-+cc==^&#x27;:~~x@###XAAXBAs*+=++</tspan>
+<tspan x="42" dy="12.5">:&#x27;&#x27;&#x27;&#x27;`&#x27;``&#x27;`::--:-+~&#x27;&#x27;:,~==~-,+o~:sA+^+xxossc*-,:&#x27;&#x27;....&#x27;.-*~~`,~-s@XAxsc*oBBBAsoosc</tspan>
+<tspan x="42" dy="12.5">-,=^.:xc^x,A*x*xxAc^=^^-~-:-::^-^oABAooxABAABAxc=,&#x27;,-,.:*=-&#x27;.~=*X@*~ccc+**sX=^^-~=</tspan>
+<tspan x="42" dy="12.5">-^+c,+*+~==+^+=-^=~-+,^~==,:::`&#x27;:^cAAxssscsscc++=+css~,*~:&#x27;.:+s#@@#s~=~=~~Ao^^:,^^</tspan>
+<tspan x="42" dy="12.5">^,`^~,--~+=+o-,^,,,:^=+*c+-&#x27;``..`:-oBc~,:`&#x27;,:,-=*cc=-:,:``.`s#@#@@@@BoX##@B^^,,,::</tspan>
+<tspan x="42" dy="12.5">&#x27;`.++-*=+*=~*+=*,^~~+cc*ccc~:`..`&#x27;,^=++~,::``:=**+^`.. .`..~####s=+*csoxAAo^~=+css</tspan>
+<tspan x="42" dy="12.5">,```:&#x27;`&#x27;&#x27;:,^~++*soABBXX####X+&#x27;.``&#x27;&#x27;::,^++-^~,:^^^&#x27;``     &#x27;+B#X#@~&#x27;::::::,::,,^^-~=</tspan>
+<tspan x="42" dy="12.5">=++**cAAABBBXX@@@@#XXBAAxs*~,&#x27;,` ...`:&#x27;,,^,,::`........^cX@@#X@#,:,,*c=c+-+=::^`::</tspan>
+<tspan x="42" dy="12.5">xxoooo##XX#####@Xoc+-,::&#x27;&#x27;&#x27;`.&#x27;x=&#x27;  . `..`.`&#x27;`..      `-xX##@#X@B::::~+~so+cx=xB~Ac</tspan>
+<tspan x="42" dy="12.5">ABBXX#########Ac=^^: ..``    ,Bxo=:       .          ..`&#x27;,-*A@@o&#x27;::^,:::::,,,:,~-&#x27;</tspan>
+<tspan x="42" dy="12.5">XX#####@####@o-~~,&#x27;-,..&#x27;,:.  =BoABA~`.        .&#x27;:^       ..`^*#*&#x27;::*=&#x27;-*=~~--cc*~&#x27;</tspan>
+<tspan x="42" dy="12.5">xAABX@@@@@@@@*`:^^,:,~^&#x27;&#x27;:,:.=xxAAAAc-,,:&#x27;&#x27;&#x27;:,-~~:  .  .``&#x27;:^:c~&#x27;::,:::,^,^^~++=**</tspan>
+<tspan x="42" dy="12.5">AXXBoooosc++=,.``&#x27;,^^^^-~^,,::+xAAAAAo*=~~--~~~~-.   .&#x27;&#x27;&#x27;&#x27;::&#x27;.=:&#x27;::+::-^^^&#x27;,::&#x27;&#x27;`&#x27;</tspan>
+<tspan x="42" dy="12.5">^+oAxoc^&#x27;&#x27;&#x27;:^~+=,`.`:,^^^-~~^:&#x27;,*xBBAxxo*=~~~~==,  `:,,:::&#x27;`..&#x27;`&#x27;&#x27;^~`:~~~~^==~---,</tspan>
+<tspan x="42" dy="12.5">&#x27;&#x27;:~sxAAc~^^^^,:-~^&#x27;.``&#x27;:,,,^-^,:^+oABxoooc====-&#x27;:,,::::&#x27;. .`,~~^&#x27;&#x27;&#x27;`,~--,^^-^:--^</tspan>
+<tspan x="42" dy="12.5">`...:ccssos*-,^oXAAx,,&#x27;````&#x27;:,,^^,,^~*ooss*=~^,,,&#x27;`&#x27;&#x27;`....`:&#x27;.:^-^-&#x27;`::::````````&#x27;</tspan>
+<tspan x="42" dy="12.5">^&#x27;&#x27;^*BxAAABXs-oXXAoc,^-^,^^:```&#x27;:^^&#x27;,,,-^,:,,,,&#x27;`,`...&#x27;:``:::`::&#x27;:-^,&#x27;^,::::&#x27;&#x27;&#x27;&#x27;``</tspan>
+<tspan x="42" dy="12.5">&#x27;`&#x27;ABxooscc*=--=++-=^:-~-^-=~^:`.^+:`&#x27;&#x27;&#x27;&#x27;``::&#x27;`.&#x27;~:.&#x27;,,:&#x27;::::`::`,,&#x27;^^+XBAxoccc+=~</tspan>
+<tspan x="42" dy="12.5">&#x27;&#x27;`sXAxxxxBo~-~~&#x27;^~c+&#x27;,~~~--~=~-,,+^`,^,,,^,::&#x27;&#x27;&#x27;~,`,,:&#x27;:,:::`:&#x27;`:`&#x27;:^:~sX##A#x*=+</tspan>
+<tspan x="42" dy="12.5">```xBxoosss+=~-^,~csc:,,-~~~-~~=~,+-&#x27;-^---^^^--:&#x27;~^&#x27;,:&#x27;:,,,::`&#x27;`&#x27;`.&#x27;&#x27;&#x27;&#x27;`.^*AXA++=~</tspan>
+<tspan x="42" dy="12.5">&#x27;:^*XAxxAAAc~~-:~*c*-:^^^-~~~-~~~,==&#x27;^--~---~-^^&#x27;~-`:,,,,:,:`.....`&#x27;&#x27;`&#x27;:,:.,Xx+===</tspan>
+<tspan x="42" dy="12.5">&#x27;^&#x27;+Aooos****~:^~=~:`,,:,^-~~--~~,~=&#x27;:---------^&#x27;-^`:,,,,,:`. ...&#x27;:``:,:````:,=+=-</tspan>
+<tspan x="42" dy="12.5">:::&#x27;^*sc=~^-~-~~-=`&#x27;&#x27;&#x27;&#x27;&#x27;^^^^-~-~~,-=:&#x27;-~------^,&#x27;,:`,,::::``.  `::`&#x27;:&#x27;`:^-^:&#x27;``:,,</tspan>
+<tspan x="42" dy="12.5">&#x27;`&#x27;`.&#x27;~sss*+==~-=, ````&#x27;,^^^^^-~~^^-,`,~~~~-^^^^&#x27;:&#x27;`,::::`.`. .:&#x27;.&#x27;`.`,-^,:&#x27;``````</tspan>
+<tspan x="42" dy="12.5">,~&#x27;`~~,,oXs*++=+= .&#x27;...&#x27;:,^,,,^--^^~,:-~~-^^^^^^..`::&#x27;:&#x27;....  .` ..`&#x27;:::&#x27;&#x27;&#x27;::&#x27;..``</tspan>
+<tspan x="42" dy="12.5">*^ ^c~~-BB+++***&#x27; `:` .`::,,,,,,^-,&#x27;`^--^^^^^^^,. &#x27;::&#x27;`.....     &#x27;~-:&#x27;````````.```</tspan>
+<tspan x="42" dy="12.5">^` :~~-cXc--++*~`..`` .`&#x27;&#x27;&#x27;,,,,,,^^&#x27;`,---^,,^^^,:::&#x27;`......  ,` .,^,^^^,,:&#x27;:,,^^^,</tspan>
+<tspan x="42" dy="12.5">:^^-***AAc*+===,.`..  ```&#x27;`&#x27;:,,,:,-~~----^,,,,,,:::=+~^:&#x27;&#x27;&#x27;&#x27;&#x27;^,::^-^^-~~~-^,:&#x27;``&#x27;&#x27;</tspan>
 </text>
-<rect x="36" y="66.7" width="346.8" height="14" fill="#7FB0FF" opacity="0.20" filter="url(#glow)">
-<animate attributeName="y" values="66.7;350.29999999999995;66.7" dur="4.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-</rect>
-</g>
-<text x="42" y="389.59999999999997" fill="#5A6472" font-size="10" letter-spacing="3">[ ASCII · SELF-PORTRAIT ]</text>
-<line x1="446" y1="68" x2="446" y2="370" stroke="#1F3A66" stroke-width="1" opacity="0.6"/>
-<text x="470" y="86" fill="url(#accent)" font-size="14.5" font-weight="700" letter-spacing="0.5">walid@adra</text>
-<text x="470" y="111" fill="#5A6472" font-size="14.5"  letter-spacing="0.5">-----------</text>
-<text x="470" y="136" fill="#4D94FF" font-size="14.5" font-weight="700">Subject<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="136" fill="#EDEDED" font-size="14.5">Walid Adra</text>
-<text x="470" y="161" fill="#4D94FF" font-size="14.5" font-weight="700">Role<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="161" fill="#EDEDED" font-size="14.5">Full-Stack Engineer</text>
-<text x="470" y="186" fill="#4D94FF" font-size="14.5" font-weight="700">Location<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="186" fill="#EDEDED" font-size="14.5">Tripoli, Lebanon  ·  Remote</text>
-<text x="470" y="211" fill="#4D94FF" font-size="14.5" font-weight="700">Status<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="211" fill="#EDEDED" font-size="14.5">Building · Shipping · Available</text>
-<text x="470" y="236" fill="#4D94FF" font-size="14.5" font-weight="700">Lang<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="236" fill="#EDEDED" font-size="14.5">TypeScript · JavaScript · Python</text>
-<text x="470" y="261" fill="#4D94FF" font-size="14.5" font-weight="700">Frontend<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="261" fill="#EDEDED" font-size="14.5">React · Next.js · Tailwind · GSAP</text>
-<text x="470" y="286" fill="#4D94FF" font-size="14.5" font-weight="700">Backend<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="286" fill="#EDEDED" font-size="14.5">Node · NestJS · Postgres · Redis</text>
-<text x="470" y="311" fill="#4D94FF" font-size="14.5" font-weight="700">Data/AI<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="311" fill="#EDEDED" font-size="14.5">Neo4j · n8n · Claude · WebSockets</text>
-<text x="470" y="336" fill="#4D94FF" font-size="14.5" font-weight="700">Focus<tspan fill="#5A6472" font-weight="400">:</tspan></text>
-<text x="598" y="336" fill="#EDEDED" font-size="14.5">Real-time systems · AI pipelines</text>
-<text x="470" y="367" fill="#4D94FF" font-size="14.5">walid@adra <tspan fill="#5A6472">~$</tspan> <tspan fill="#EDEDED">hire</tspan></text>
-<rect x="606" y="350" width="9" height="15" fill="url(#accent)"><animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite" keyTimes="0;0.5;0.5;1"/></rect>
-<rect x="470" y="383" width="15" height="9" rx="2" fill="#0055FF"/>
-<rect x="490" y="383" width="15" height="9" rx="2" fill="#2979FF"/>
-<rect x="510" y="383" width="15" height="9" rx="2" fill="#4D94FF"/>
-<rect x="530" y="383" width="15" height="9" rx="2" fill="#10B981"/>
-<rect x="550" y="383" width="15" height="9" rx="2" fill="#EDEDED"/>
-<rect x="570" y="383" width="15" height="9" rx="2" fill="#5A6472"/>
+<rect x="36" y="85.6" width="523" height="16" fill="#7FB0FF" opacity="0.18" filter="url(#gl)"><animate attributeName="y" values="85.6;569.6;85.6" dur="4.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></rect></g>
+<text x="42" y="603.6" fill="#5A6472" font-size="10" letter-spacing="3">[ ASCII SELF-PORTRAIT ]</text>
+<line x1="576" y1="72" x2="576" y2="634" stroke="#1F3A66" opacity="0.6"/>
+<text x="602" y="100" fill="url(#ac)" font-size="15" font-weight="700">walid@Walidd22</text>
+<text x="602" y="124" fill="#5A6472" font-size="15">---------------</text>
+<text x="602" y="148" fill="#4D94FF" font-size="15" font-weight="700">Subject<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="148" fill="#EDEDED" font-size="15">Walid Adra</text>
+<text x="602" y="172" fill="#4D94FF" font-size="15" font-weight="700">Role<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="172" fill="#EDEDED" font-size="15">Full-Stack Engineer / AI Builder</text>
+<text x="602" y="196" fill="#4D94FF" font-size="15" font-weight="700">Origin<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="196" fill="#EDEDED" font-size="15">Tripoli, Lebanon / Remote</text>
+<text x="602" y="220" fill="#4D94FF" font-size="15" font-weight="700">Status<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="220" fill="#EDEDED" font-size="15">Building / Shipping / Available</text>
+<text x="602" y="244" fill="#4D94FF" font-size="15" font-weight="700">ToolChain<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="244" fill="#EDEDED" font-size="15">Claude Code / Git / Docker / Vercel</text>
+<text x="602" y="280" fill="#4D94FF" font-size="15" font-weight="700">Core.Lang<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="280" fill="#EDEDED" font-size="15">TypeScript / JavaScript / Python</text>
+<text x="602" y="304" fill="#4D94FF" font-size="15" font-weight="700">Core.Frontend<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="304" fill="#EDEDED" font-size="15">React 19 / Next.js 16 / Tailwind / GSAP</text>
+<text x="602" y="328" fill="#4D94FF" font-size="15" font-weight="700">Core.Backend<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="328" fill="#EDEDED" font-size="15">NestJS / Node.js / Supabase / Prisma</text>
+<text x="602" y="352" fill="#4D94FF" font-size="15" font-weight="700">Core.AI<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="352" fill="#EDEDED" font-size="15">Claude SDK / n8n / Neo4j / WebSockets</text>
+<text x="602" y="376" fill="#4D94FF" font-size="15" font-weight="700">Core.Database<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="376" fill="#EDEDED" font-size="15">PostgreSQL / Redis / Neo4j</text>
+<text x="602" y="400" fill="#4D94FF" font-size="15" font-weight="700">Core.Infra<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="400" fill="#EDEDED" font-size="15">Docker / Vercel / CI-CD</text>
+<text x="602" y="436" fill="#4D94FF" font-size="15" font-weight="700">Human.Langs<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="436" fill="#EDEDED" font-size="15">AR / EN</text>
+<text x="602" y="460" fill="#10B981" font-size="14" font-weight="700" letter-spacing="0.5">-- Contact --</text>
+<text x="602" y="484" fill="#4D94FF" font-size="15" font-weight="700">Grid.Mail<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="484" fill="#EDEDED" font-size="15">w22a.work@gmail.com</text>
+<text x="602" y="508" fill="#4D94FF" font-size="15" font-weight="700">Grid.Site<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="508" fill="#EDEDED" font-size="15">walidadra.dev</text>
+<text x="602" y="532" fill="#4D94FF" font-size="15" font-weight="700">Grid.GitHub<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
+<text x="758" y="532" fill="#EDEDED" font-size="15">Walidd22</text>
+<text x="602" y="556" fill="#10B981" font-size="14" font-weight="700" letter-spacing="0.5">-- Live.Stats --</text>
+<text x="602" y="580" fill="#5A6472" font-size="14">live cards + stats below <tspan fill="#10B981">v</tspan></text>
+<rect x="602" y="598" width="16" height="10" rx="2" fill="#0055FF"/>
+<rect x="624" y="598" width="16" height="10" rx="2" fill="#2979FF"/>
+<rect x="646" y="598" width="16" height="10" rx="2" fill="#4D94FF"/>
+<rect x="668" y="598" width="16" height="10" rx="2" fill="#10B981"/>
+<rect x="690" y="598" width="16" height="10" rx="2" fill="#34D399"/>
+<rect x="712" y="598" width="16" height="10" rx="2" fill="#EDEDED"/>
+<rect x="734" y="598" width="16" height="10" rx="2" fill="#5A6472"/>
 </svg>

@@ -1,7 +1,7 @@
 <!-- ============================================================= -->
 <!--  Walid Adra — GitHub Profile README                            -->
 <!--  Brand: walidadra.dev + webrift.dev — electric blue on black   -->
-<!--  Fonts: monospace (Space Mono feel) · Terminal / HUD identity  -->
+<!--  Terminal / HUD identity · monospace · zero purple             -->
 <!-- ============================================================= -->
 
 <div align="center">
@@ -33,14 +33,7 @@
 
 Self-taught full-stack developer from **Tripoli, Lebanon**. No bootcamp, no visible path in — I opened a laptop, typed `<h1>` into a file to see what happened, and kept going for 1,000+ hours: `HTML → CSS → JavaScript → React`, building, breaking, and reading the errors until they made sense.
 
-Since then I've shipped real systems under deadline — SaaS platforms, real-time trading interfaces, and end-to-end products. I run **[WebRift](https://webrift.dev)**, a small agency building production apps for founders, and I build local-first AI systems on the side.
-
-```txt
-▸ full-stack     React / Next.js  →  Node / NestJS / Supabase
-▸ real-time      WebSocket dashboards · streaming AI · live data under load
-▸ ownership      architecture → delivery → production fixes, no hand-holding
-▸ open to        contract & freelance · remote · EMEA hours
-```
+Since then I've shipped real systems under deadline — SaaS platforms, real-time trading interfaces, and end-to-end products. I run **[WebRift](https://webrift.dev)**, a small agency building production apps for founders, and I build local-first AI systems on the side. I own the whole path: **architecture → delivery → production fixes**, no hand-holding.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -49,15 +42,6 @@ Since then I've shipped real systems under deadline — SaaS platforms, real-tim
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs,nodejs,nestjs,prisma,postgres,supabase,redis,neo4j,docker,git,vercel,figma" alt="stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSAP-0055FF?style=flat-square&labelColor=0A0A0E" />
-<img src="https://img.shields.io/badge/WebSockets-2979FF?style=flat-square&labelColor=0A0A0E" />
-<img src="https://img.shields.io/badge/n8n-10B981?style=flat-square&labelColor=0A0A0E" />
-<img src="https://img.shields.io/badge/Claude_SDK-4D94FF?style=flat-square&labelColor=0A0A0E" />
-<img src="https://img.shields.io/badge/Stripe-0055FF?style=flat-square&labelColor=0A0A0E" />
-<img src="https://img.shields.io/badge/Expo-2979FF?style=flat-square&labelColor=0A0A0E" />
 
 </div>
 
@@ -174,14 +158,12 @@ open_to:    contract & freelance · remote · EMEA hours
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## `$ gh api /stats`
+## `$ ./stats.sh --last-year`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Walidd22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2979FF&icon_color=10B981&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Walidd22&hide_border=true&background=0D1117&ring=2979FF&fire=10B981&currStreakLabel=2979FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+  <img alt="GitHub stats" src="./assets/stats-dark.svg" width="100%" />
+</picture>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
