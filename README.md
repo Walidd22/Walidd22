@@ -78,18 +78,18 @@ The home of my studio — a hand-built animated site, no framework, no build ste
 </details>
 
 <details>
-<summary><b>🧾 Ordering &amp; Delivery Platform</b> — full-stack, solo</summary>
+<summary><b>🧾 Ordering &amp; Delivery Platform</b> — full-stack, solo, two deployments</summary>
 
 <br/>
 
-A complete ordering and delivery system, taken solo from an empty repository to a deployed product — three portals, live order handling, and every layer between the schema and the pixel.
+A complete ordering and delivery system, taken solo from an empty repository to a deployed product — three portals, live order handling, and every layer between the schema and the pixel. Its foundation then carried a second restaurant into production two days after that build started, running a lighter configuration: menu, admin dashboard and WhatsApp ordering, without the cart and dispatch layer it did not need.
 
 | | |
 | :-- | :-- |
 | **Stack** | Next.js · React · Node.js · Postgres · Redis |
 | **Role** | Full-Stack Engineer — schema to deploy |
-| **Status** | 🟢 Live demo → [myypizza.com](https://myypizza.com) |
-| **Source** | Private — client commission |
+| **Status** | 🟢 Live → [almahramji.com](https://almahramji.com) · [myypizza.com](https://myypizza.com) |
+| **Source** | Private — client commissions |
 
 </details>
 
