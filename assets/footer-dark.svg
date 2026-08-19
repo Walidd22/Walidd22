@@ -9,13 +9,13 @@
 <text x="560.0" y="40" fill="#8892A0" font-size="12" text-anchor="middle" letter-spacing="1">walid@Walidd22 -- ~ ./sign-off.sh</text>
 <line x1="16" y1="48" x2="1104" y2="48" stroke="#1F3A66"/>
 <text x="48" y="78" fill="#5A6472" font-size="12">walid@Walidd22 <tspan fill="#4D94FF">~$</tspan> echo $MOTTO</text>
-<text x="48" y="106" font-size="16"><tspan fill="#EDEDED" font-weight="700">build</tspan><tspan fill="#5A6472"> / </tspan><tspan fill="#EDEDED" font-weight="700">ship</tspan><tspan fill="#5A6472"> / </tspan><tspan fill="#EDEDED" font-weight="700">teach</tspan><tspan fill="#5A6472"> / </tspan><tspan fill="#EDEDED" font-weight="700">repeat</tspan></text>
+<text x="48" y="106" font-size="16"><tspan fill="#EDEDED" font-weight="700">build</tspan><tspan fill="#5A6472"> / </tspan><tspan fill="#EDEDED" font-weight="700">ship</tspan><tspan fill="#5A6472"> / </tspan><tspan fill="#EDEDED" font-weight="700">maintain</tspan><tspan fill="#5A6472"> / </tspan><tspan fill="#EDEDED" font-weight="700">repeat</tspan></text>
 <rect x="270" y="93" width="9" height="15" fill="url(#fa)"><animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite" keyTimes="0;0.5;0.5;1"/></rect>
 <text x="430" y="78" fill="#5A6472" font-size="12">walid@Walidd22 <tspan fill="#4D94FF">~$</tspan> open ~/links</text>
 <text x="430" y="106" font-size="13.5"><tspan fill="#4D94FF">portfolio</tspan><tspan fill="#5A6472"> -> walidadra.dev</tspan></text>
 <text x="430" y="130" font-size="13.5"><tspan fill="#4D94FF">agency</tspan><tspan fill="#5A6472"> -> webrift.dev</tspan><tspan fill="#5A6472">   ·   </tspan><tspan fill="#4D94FF">gh</tspan><tspan fill="#5A6472"> -> Walidd22</tspan></text>
 <text x="1076" y="78" fill="#5A6472" font-size="12" text-anchor="end">walid@Walidd22 <tspan fill="#4D94FF">~$</tspan> status</text>
-<text x="1058" y="106" font-size="15" text-anchor="end"><tspan fill="#5A6472">available for work</tspan></text>
+<text x="1058" y="106" font-size="15" text-anchor="end"><tspan fill="#5A6472">available for contract work</tspan></text>
 <circle cx="1070" cy="101" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
 <text x="1076" y="130" fill="#5A6472" font-size="12.5" text-anchor="end">Tripoli, LB  ·  remote  ·  EMEA hours</text>
 </svg>
