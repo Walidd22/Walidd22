@@ -133,6 +133,17 @@ A design-complete front end for an AI fashion-photoshoot product. The full studi
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## `$ git log --merged --author="Walid Adra" --not-mine`
+
+Work shipped into repositories I do not own.
+
+| | |
+| :-- | :-- |
+| **[claude-video-vision](https://github.com/jordanrendric/claude-video-vision)** | [#23](https://github.com/jordanrendric/claude-video-vision/pull/23) &mdash; merged |
+| **Fix** | Whisper transcription failed on local runs: `--language auto` is not a valid value, and an unpinned `--output_dir` left artefacts where the caller could not find them. Dropped the flag, pinned the directory. |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## `$ cat focus.yaml`
 
 ```yaml
@@ -151,7 +162,7 @@ Most of the last year went into private client repositories; the totals below in
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-  <img alt="GitHub stats — 481 contributions, 105 peak day, 31 active days, 16d streak, 7 repos" src="./assets/stats-dark.svg" width="100%" />
+  <img alt="GitHub stats — 1287 contributions, 181 peak day, 98 active days, 35d streak, 10 repos" src="./assets/stats-dark.svg" width="100%" />
 </picture>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
