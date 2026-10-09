@@ -70,16 +70,14 @@ Data-dense operator consoles, bilingual EN/AR with real RTL, installable PWAs, m
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,supabase,redis,docker,terraform,tailwind,gcp,vercel,githubactions,git&perline=4&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,supabase,redis,docker,terraform,tailwind,gcp,vercel,githubactions,git&perline=4&theme=dark" width="240" align="middle" alt="Daily drivers: TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, Terraform, Tailwind, Google Cloud, Vercel, GitHub Actions, Git" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/core-light.svg" />
+    <img src="./assets/core-dark.svg" width="264" align="top" alt="Core stack: TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, Terraform, Tailwind, Google Cloud, Vercel, GitHub Actions, Git" />
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-    <img src="./assets/stack-dark.svg" width="520" align="middle" alt="Tech stack: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C, C++, C#, PHP, Ruby, Swift, Dart, SQL, Bash, HTML5, CSS, React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Remix, Tailwind CSS, Sass, shadcn/ui, MUI, Bootstrap, Redux, TanStack Query, Vite, Webpack, Three.js, GSAP, Framer Motion, Storybook, Node.js, Bun, Deno, Express, NestJS, Fastify, FastAPI, Django, Flask, Spring Boot, Laravel, Rails, .NET, GraphQL, tRPC, Socket.IO, gRPC, Stripe, Auth0, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase, Prisma, Drizzle, Neo4j, Elasticsearch, DynamoDB, Cassandra, BigQuery, Snowflake, dbt, Apache Kafka, Apache Spark, Airflow, RabbitMQ, PyTorch, TensorFlow, Keras, Hugging Face, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter, LangChain, LangGraph, Claude, OpenAI, Gemini, Ollama, pgvector, Qdrant, MLflow, React Native, Expo, Flutter, SwiftUI, Jetpack Compose, Electron, Tauri, PWA, Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Nginx, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Sentry, Linux, Ubuntu, Tailscale, n8n, Jest, Vitest, Playwright, Cypress, Pytest, Testing Library, ESLint, Prettier, SonarQube, Postman, Git, GitHub, GitLab, VS Code, Figma, Notion, Jira, npm, pnpm, Yarn, Turborepo, Claude Code" />
+    <img src="./assets/stack-dark.svg" width="520" align="top" alt="Toolbox: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C, C++, C#, PHP, Ruby, Swift, Dart, SQL, Bash, HTML5, CSS, React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Remix, Tailwind CSS, Sass, shadcn/ui, MUI, Bootstrap, Redux, TanStack Query, Vite, Webpack, Three.js, GSAP, Framer Motion, Storybook, Node.js, Bun, Deno, Express, NestJS, Fastify, FastAPI, Django, Flask, Spring Boot, Laravel, Rails, .NET, GraphQL, tRPC, Socket.IO, gRPC, Stripe, Auth0, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase, Prisma, Drizzle, Neo4j, Elasticsearch, DynamoDB, Cassandra, BigQuery, Snowflake, dbt, Apache Kafka, Apache Spark, Airflow, RabbitMQ, PyTorch, TensorFlow, Keras, Hugging Face, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter, LangChain, LangGraph, Claude, OpenAI, Gemini, Ollama, pgvector, Qdrant, MLflow, React Native, Expo, Flutter, SwiftUI, Jetpack Compose, Electron, Tauri, PWA, Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Nginx, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Sentry, Linux, Ubuntu, Tailscale, n8n, Jest, Vitest, Playwright, Cypress, Pytest, Testing Library, ESLint, Prettier, SonarQube, Postman, Git, GitHub, GitLab, VS Code, Figma, Notion, Jira, npm, pnpm, Yarn, Turborepo, Claude Code" />
   </picture>
-  <br />
-  <sub><b>Daily drivers</b> · plus the full toolbox: 150 tools across 9 categories</sub>
 </p>
 
 ## 🚀 Featured Work
