@@ -45,8 +45,8 @@ Row-level security on every tenant table, append-only audit, capability grants, 
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 AI-integrated products
-Agent graphs, retrieval across vector and graph stores, real-time voice, and human approval on anything the model can't be trusted to get right.
+#### 🤖 AI, ML &amp; BI
+Agent graphs, retrieval, real-time voice, trained models and BI dashboards, with human approval wherever the model can't be trusted alone.
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ Data-dense operator consoles, bilingual EN/AR with real RTL, installable PWAs, m
   &nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-    <img src="./assets/stack-dark.svg" width="520" align="top" alt="Toolbox: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C, C++, C#, PHP, Ruby, Swift, Dart, SQL, Bash, HTML5, CSS, React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Remix, Tailwind CSS, Sass, shadcn/ui, MUI, Bootstrap, Redux, TanStack Query, Vite, Webpack, Three.js, GSAP, Framer Motion, Storybook, Node.js, Bun, Deno, Express, NestJS, Fastify, FastAPI, Django, Flask, Spring Boot, Laravel, Rails, .NET, GraphQL, tRPC, Socket.IO, gRPC, Stripe, Auth0, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase, Prisma, Drizzle, Neo4j, Elasticsearch, DynamoDB, Cassandra, BigQuery, Snowflake, dbt, Apache Kafka, Apache Spark, Airflow, RabbitMQ, PyTorch, TensorFlow, Keras, Hugging Face, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter, LangChain, LangGraph, Claude, OpenAI, Gemini, Ollama, pgvector, Qdrant, MLflow, React Native, Expo, Flutter, SwiftUI, Jetpack Compose, Electron, Tauri, PWA, Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Nginx, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Sentry, Linux, Ubuntu, Tailscale, n8n, Jest, Vitest, Playwright, Cypress, Pytest, Testing Library, ESLint, Prettier, SonarQube, Postman, Git, GitHub, GitLab, VS Code, Figma, Notion, Jira, npm, pnpm, Yarn, Turborepo, Claude Code" />
+    <img src="./assets/stack-dark.svg" width="520" align="top" alt="Toolbox: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C, C++, C#, PHP, Ruby, Swift, Dart, SQL, Bash, HTML5, CSS, React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Remix, Tailwind CSS, Sass, shadcn/ui, MUI, Bootstrap, Redux, TanStack Query, Vite, Webpack, Three.js, GSAP, Framer Motion, Storybook, Node.js, Bun, Deno, Express, NestJS, Fastify, FastAPI, Django, Flask, Spring Boot, Laravel, Rails, .NET, GraphQL, tRPC, Socket.IO, gRPC, Stripe, Auth0, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase, Prisma, Drizzle, Neo4j, Elasticsearch, DynamoDB, Cassandra, BigQuery, Snowflake, dbt, Apache Kafka, Apache Spark, Airflow, RabbitMQ, PyTorch, TensorFlow, Keras, Hugging Face, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter, LangChain, LangGraph, Claude, OpenAI, Gemini, Ollama, pgvector, Qdrant, MLflow, Power BI, Tableau, Looker, Metabase, Superset, Databricks, Google Analytics, Google Sheets, Hadoop, MLflow, React Native, Expo, Flutter, SwiftUI, Jetpack Compose, Electron, Tauri, PWA, Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Nginx, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Sentry, Linux, Ubuntu, Tailscale, n8n, Jest, Vitest, Playwright, Cypress, Pytest, Testing Library, ESLint, Prettier, SonarQube, Postman, Shopify, WooCommerce, Salesforce, HubSpot, Odoo, Zapier, Make, Airtable, WordPress, Strapi, Sanity, Contentful, Payload CMS, Twilio, Resend, SendGrid, Mailchimp, Slack, Keycloak, Git, GitHub, GitLab, VS Code, Figma, Notion, Jira, npm, pnpm, Yarn, Turborepo, Claude Code, Blender, Unity, Unreal Engine" />
   </picture>
 </p>
 
