@@ -20,7 +20,7 @@ import { fileURLToPath } from 'node:url';
 
 const USER = process.env.GH_USER || 'Walidd22';
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-const AUTHOR_EMAILS = (process.env.AUTHOR_EMAILS || 'walid92.adra@gmail.com,w22a.work@gmail.com')
+const AUTHOR_EMAILS = (process.env.AUTHOR_EMAILS || 'walid92.adra@gmail.com,w22a.work@gmail.com,219841728+walidd22@users.noreply.github.com')
   .split(',').map((e) => e.trim().toLowerCase());
 if (!TOKEN) throw new Error('GH_TOKEN is required');
 
