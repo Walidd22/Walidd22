@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="Top languages: TypeScript 52.3%, Python 38.6%, CSS 4.1%, HTML 2.3%, JavaScript 1.7%, PLpgSQL 0.7%">
+<title>Top languages: TypeScript 52.3%, Python 38.6%, CSS 4.1%, HTML 2.3%, JavaScript 1.7%, PLpgSQL 0.7%</title>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#4D94FF"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="399" height="209" rx="12" fill="#0A0A0E" stroke="#1E2838"/>
+<rect x="16" y="0.5" width="368" height="2" rx="1" fill="url(#g)"/>
+<text x="20" y="34" fill="#E8EDF4" font-size="15" font-weight="600">Languages</text>
+<text x="380" y="34" fill="#8994A6" font-size="12" text-anchor="end">across 15 repositories</text>
+<clipPath id="bar"><rect x="20" y="52" width="360" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="20.0" y="52" width="188.1" height="10" fill="#3178C6"/><rect x="208.1" y="52" width="138.8" height="10" fill="#3572A5"/><rect x="347.0" y="52" width="14.8" height="10" fill="#663399"/><rect x="361.8" y="52" width="8.4" height="10" fill="#E34C26"/><rect x="370.2" y="52" width="5.9" height="10" fill="#F1E05A"/><rect x="376.2" y="52" width="2.6" height="10" fill="#336790"/></g>
+<g>
+<circle cx="26" cy="93" r="6" fill="#3178C6"/>
+<text x="40" y="98" fill="#E8EDF4" font-size="14">TypeScript</text>
+<text x="192" y="98" fill="#8994A6" font-size="13" text-anchor="end">52.3%</text>
+</g>
+<g>
+<circle cx="210" cy="93" r="6" fill="#3572A5"/>
+<text x="224" y="98" fill="#E8EDF4" font-size="14">Python</text>
+<text x="376" y="98" fill="#8994A6" font-size="13" text-anchor="end">38.6%</text>
+</g>
+<g>
+<circle cx="26" cy="127" r="6" fill="#663399"/>
+<text x="40" y="132" fill="#E8EDF4" font-size="14">CSS</text>
+<text x="192" y="132" fill="#8994A6" font-size="13" text-anchor="end">4.1%</text>
+</g>
+<g>
+<circle cx="210" cy="127" r="6" fill="#E34C26"/>
+<text x="224" y="132" fill="#E8EDF4" font-size="14">HTML</text>
+<text x="376" y="132" fill="#8994A6" font-size="13" text-anchor="end">2.3%</text>
+</g>
+<g>
+<circle cx="26" cy="161" r="6" fill="#F1E05A"/>
+<text x="40" y="166" fill="#E8EDF4" font-size="14">JavaScript</text>
+<text x="192" y="166" fill="#8994A6" font-size="13" text-anchor="end">1.7%</text>
+</g>
+<g>
+<circle cx="210" cy="161" r="6" fill="#336790"/>
+<text x="224" y="166" fill="#E8EDF4" font-size="14">PLpgSQL</text>
+<text x="376" y="166" fill="#8994A6" font-size="13" text-anchor="end">0.7%</text>
+</g>
+</svg>

@@ -1,92 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 660" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<defs><linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0055FF"/><stop offset="1" stop-color="#10B981"/></linearGradient>
-<filter id="gl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="cl"><rect x="36" y="85.6" width="523" height="504.0"/></clipPath></defs>
-<rect width="1120" height="660" rx="14" fill="#050508"/>
-<rect x="18" y="18" width="1084" height="624" rx="11" fill="#0A0A0E" stroke="#1F3A66" stroke-width="1.4"/>
-<rect x="18" y="18" width="1084" height="3" rx="1.5" fill="url(#ac)" opacity="0.9"/>
-<circle cx="42" cy="40" r="5.5" fill="#FF5F57"/>
-<circle cx="62" cy="40" r="5.5" fill="#FEBC2E"/>
-<circle cx="82" cy="40" r="5.5" fill="#28C840"/>
-<text x="560.0" y="44" fill="#8892A0" font-size="13" text-anchor="middle" letter-spacing="1">walid@Walidd22: ~/portfolio -- ./profile.sh --live</text>
-<line x1="18" y1="56" x2="1102" y2="56" stroke="#1F3A66"/>
-<text x="42" y="77.6" fill="#5A6472" font-size="10" letter-spacing="3">SELF.MAP</text>
-<g clip-path="url(#cl)"><text x="42" y="96" fill="#2E63C4" font-size="10.4" xml:space="preserve" style="white-space:pre">
-<tspan x="42" dy="0">^^^^^,s*,,^*scs++**co***c+,&#x27;..`&#x27;+ccsssssooooossccccc**+==-:.      .:+*&#x27;,:&#x27;:&#x27;``````</tspan>
-<tspan x="42" dy="12.5">^^^^^,ox~=+sBxxxAAxsBsoooo^:```~xAAABBBBBBAAAxxxxoooosc++=~,.     .`+c&#x27;-^&#x27;-&#x27;:,:&#x27;&#x27;`</tspan>
-<tspan x="42" dy="12.5">,:,~-,^sosos+=+sxooxocssox+~&#x27;`:cBAxooxBXXXBAxxooooossc**++=~^`    .,s+&#x27;=^:~&#x27;---:,,</tspan>
-<tspan x="42" dy="12.5">::,,^^-~===++**co*cccssoxx*-,`+Xs~~^,,,-=cxBAAAAxxxoooss*+=~~:    .^xo+=~--^^^,:::</tspan>
-<tspan x="42" dy="12.5">--~~====~~~~-+ccossooxAAAAs,:^#A*sxxxs=,:,-*xAAxosc+~~-~-~+=~`  ..~oABA++oxxxoc**+</tspan>
-<tspan x="42" dy="12.5">~~~~~~~~+**=-~ssxAxxxxxxxAo^:*@xxo++=~-^-=*sBBxs~,:&#x27;&#x27;:,::&#x27;:~~&#x27;  .^BBXXXAxxxooxxxxo</tspan>
-<tspan x="42" dy="12.5">cooxAo+XXoo+--sxBAxBBAAxxxo,,BBxo*-=~:`,==soAAo~,,,:^-=+*=^:~, .&#x27;xXoABBAsocBs~^:::</tspan>
-<tspan x="42" dy="12.5">**x@s~=xAxAo=^cxABBXXAAxc*o+o#AxxoosssccsxxxAxc---+:` :&#x27;:-=~~&#x27; `sX#ABBB=coX*`*o:``</tspan>
-<tspan x="42" dy="12.5">--=#A--*ooBX+~~ccssoxxoscBs=XAAABAxxooAAxxxAAxc==***+=+-,^~==` ^sA####A,-Bo`:xc&#x27;``</tspan>
-<tspan x="42" dy="12.5">~~~oA=~+cc*=~~^oxABBXXXoAo+=BAABXBxssoAAAxAXBAs=+*ssscccc*+==&#x27;:-^~X####c~#o,&#x27;&#x27;`,=~</tspan>
-<tspan x="42" dy="12.5">~~~-------~=+*o@#@@@@@@Ax*+*Bxxo*==*xBAs*=cxxc~=*=coxxxosc*==:,-,=###@##c*xAo+-:,,</tspan>
-<tspan x="42" dy="12.5">=~~=+*csxABXX###@@##XXBxAB~=BAo-&#x27;`^===-,&#x27;::--:`&#x27;:~*ssooosc+==`^+-*#A###XBo*+coxxos</tspan>
-<tspan x="42" dy="12.5">osoooossc**+==~-^^,,,,,^Ax~-sxx, :&#x27;.&#x27;:::::`,&#x27;..  `,~=^-+cc==^&#x27;:~~x@###XAAXBAs*+=++</tspan>
-<tspan x="42" dy="12.5">:&#x27;&#x27;&#x27;&#x27;`&#x27;``&#x27;`::--:-+~&#x27;&#x27;:,~==~-,+o~:sA+^+xxossc*-,:&#x27;&#x27;....&#x27;.-*~~`,~-s@XAxsc*oBBBAsoosc</tspan>
-<tspan x="42" dy="12.5">-,=^.:xc^x,A*x*xxAc^=^^-~-:-::^-^oABAooxABAABAxc=,&#x27;,-,.:*=-&#x27;.~=*X@*~ccc+**sX=^^-~=</tspan>
-<tspan x="42" dy="12.5">-^+c,+*+~==+^+=-^=~-+,^~==,:::`&#x27;:^cAAxssscsscc++=+css~,*~:&#x27;.:+s#@@#s~=~=~~Ao^^:,^^</tspan>
-<tspan x="42" dy="12.5">^,`^~,--~+=+o-,^,,,:^=+*c+-&#x27;``..`:-oBc~,:`&#x27;,:,-=*cc=-:,:``.`s#@#@@@@BoX##@B^^,,,::</tspan>
-<tspan x="42" dy="12.5">&#x27;`.++-*=+*=~*+=*,^~~+cc*ccc~:`..`&#x27;,^=++~,::``:=**+^`.. .`..~####s=+*csoxAAo^~=+css</tspan>
-<tspan x="42" dy="12.5">,```:&#x27;`&#x27;&#x27;:,^~++*soABBXX####X+&#x27;.``&#x27;&#x27;::,^++-^~,:^^^&#x27;``     &#x27;+B#X#@~&#x27;::::::,::,,^^-~=</tspan>
-<tspan x="42" dy="12.5">=++**cAAABBBXX@@@@#XXBAAxs*~,&#x27;,` ...`:&#x27;,,^,,::`........^cX@@#X@#,:,,*c=c+-+=::^`::</tspan>
-<tspan x="42" dy="12.5">xxoooo##XX#####@Xoc+-,::&#x27;&#x27;&#x27;`.&#x27;x=&#x27;  . `..`.`&#x27;`..      `-xX##@#X@B::::~+~so+cx=xB~Ac</tspan>
-<tspan x="42" dy="12.5">ABBXX#########Ac=^^: ..``    ,Bxo=:       .          ..`&#x27;,-*A@@o&#x27;::^,:::::,,,:,~-&#x27;</tspan>
-<tspan x="42" dy="12.5">XX#####@####@o-~~,&#x27;-,..&#x27;,:.  =BoABA~`.        .&#x27;:^       ..`^*#*&#x27;::*=&#x27;-*=~~--cc*~&#x27;</tspan>
-<tspan x="42" dy="12.5">xAABX@@@@@@@@*`:^^,:,~^&#x27;&#x27;:,:.=xxAAAAc-,,:&#x27;&#x27;&#x27;:,-~~:  .  .``&#x27;:^:c~&#x27;::,:::,^,^^~++=**</tspan>
-<tspan x="42" dy="12.5">AXXBoooosc++=,.``&#x27;,^^^^-~^,,::+xAAAAAo*=~~--~~~~-.   .&#x27;&#x27;&#x27;&#x27;::&#x27;.=:&#x27;::+::-^^^&#x27;,::&#x27;&#x27;`&#x27;</tspan>
-<tspan x="42" dy="12.5">^+oAxoc^&#x27;&#x27;&#x27;:^~+=,`.`:,^^^-~~^:&#x27;,*xBBAxxo*=~~~~==,  `:,,:::&#x27;`..&#x27;`&#x27;&#x27;^~`:~~~~^==~---,</tspan>
-<tspan x="42" dy="12.5">&#x27;&#x27;:~sxAAc~^^^^,:-~^&#x27;.``&#x27;:,,,^-^,:^+oABxoooc====-&#x27;:,,::::&#x27;. .`,~~^&#x27;&#x27;&#x27;`,~--,^^-^:--^</tspan>
-<tspan x="42" dy="12.5">`...:ccssos*-,^oXAAx,,&#x27;````&#x27;:,,^^,,^~*ooss*=~^,,,&#x27;`&#x27;&#x27;`....`:&#x27;.:^-^-&#x27;`::::````````&#x27;</tspan>
-<tspan x="42" dy="12.5">^&#x27;&#x27;^*BxAAABXs-oXXAoc,^-^,^^:```&#x27;:^^&#x27;,,,-^,:,,,,&#x27;`,`...&#x27;:``:::`::&#x27;:-^,&#x27;^,::::&#x27;&#x27;&#x27;&#x27;``</tspan>
-<tspan x="42" dy="12.5">&#x27;`&#x27;ABxooscc*=--=++-=^:-~-^-=~^:`.^+:`&#x27;&#x27;&#x27;&#x27;``::&#x27;`.&#x27;~:.&#x27;,,:&#x27;::::`::`,,&#x27;^^+XBAxoccc+=~</tspan>
-<tspan x="42" dy="12.5">&#x27;&#x27;`sXAxxxxBo~-~~&#x27;^~c+&#x27;,~~~--~=~-,,+^`,^,,,^,::&#x27;&#x27;&#x27;~,`,,:&#x27;:,:::`:&#x27;`:`&#x27;:^:~sX##A#x*=+</tspan>
-<tspan x="42" dy="12.5">```xBxoosss+=~-^,~csc:,,-~~~-~~=~,+-&#x27;-^---^^^--:&#x27;~^&#x27;,:&#x27;:,,,::`&#x27;`&#x27;`.&#x27;&#x27;&#x27;&#x27;`.^*AXA++=~</tspan>
-<tspan x="42" dy="12.5">&#x27;:^*XAxxAAAc~~-:~*c*-:^^^-~~~-~~~,==&#x27;^--~---~-^^&#x27;~-`:,,,,:,:`.....`&#x27;&#x27;`&#x27;:,:.,Xx+===</tspan>
-<tspan x="42" dy="12.5">&#x27;^&#x27;+Aooos****~:^~=~:`,,:,^-~~--~~,~=&#x27;:---------^&#x27;-^`:,,,,,:`. ...&#x27;:``:,:````:,=+=-</tspan>
-<tspan x="42" dy="12.5">:::&#x27;^*sc=~^-~-~~-=`&#x27;&#x27;&#x27;&#x27;&#x27;^^^^-~-~~,-=:&#x27;-~------^,&#x27;,:`,,::::``.  `::`&#x27;:&#x27;`:^-^:&#x27;``:,,</tspan>
-<tspan x="42" dy="12.5">&#x27;`&#x27;`.&#x27;~sss*+==~-=, ````&#x27;,^^^^^-~~^^-,`,~~~~-^^^^&#x27;:&#x27;`,::::`.`. .:&#x27;.&#x27;`.`,-^,:&#x27;``````</tspan>
-<tspan x="42" dy="12.5">,~&#x27;`~~,,oXs*++=+= .&#x27;...&#x27;:,^,,,^--^^~,:-~~-^^^^^^..`::&#x27;:&#x27;....  .` ..`&#x27;:::&#x27;&#x27;&#x27;::&#x27;..``</tspan>
-<tspan x="42" dy="12.5">*^ ^c~~-BB+++***&#x27; `:` .`::,,,,,,^-,&#x27;`^--^^^^^^^,. &#x27;::&#x27;`.....     &#x27;~-:&#x27;````````.```</tspan>
-<tspan x="42" dy="12.5">^` :~~-cXc--++*~`..`` .`&#x27;&#x27;&#x27;,,,,,,^^&#x27;`,---^,,^^^,:::&#x27;`......  ,` .,^,^^^,,:&#x27;:,,^^^,</tspan>
-<tspan x="42" dy="12.5">:^^-***AAc*+===,.`..  ```&#x27;`&#x27;:,,,:,-~~----^,,,,,,:::=+~^:&#x27;&#x27;&#x27;&#x27;&#x27;^,::^-^^-~~~-^,:&#x27;``&#x27;&#x27;</tspan>
-</text>
-<rect x="36" y="85.6" width="523" height="16" fill="#7FB0FF" opacity="0.18" filter="url(#gl)"><animate attributeName="y" values="85.6;569.6;85.6" dur="4.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></rect></g>
-<text x="42" y="603.6" fill="#5A6472" font-size="10" letter-spacing="3">[ ASCII SELF-PORTRAIT ]</text>
-<line x1="576" y1="72" x2="576" y2="634" stroke="#1F3A66" opacity="0.6"/>
-<text x="602" y="100" fill="url(#ac)" font-size="14" font-weight="700">walid@Walidd22</text>
-<text x="602" y="124" fill="#5A6472" font-size="14">---------------</text>
-<text x="602" y="160" fill="#4D94FF" font-size="14" font-weight="700">Subject<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="160" fill="#EDEDED" font-size="14">Walid Adra</text>
-<text x="602" y="188" fill="#4D94FF" font-size="14" font-weight="700">Role<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="188" fill="#EDEDED" font-size="14">Full-Stack &amp; Platform Engineer</text>
-<text x="602" y="216" fill="#4D94FF" font-size="14" font-weight="700">Based<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="216" fill="#EDEDED" font-size="14">Tripoli, Lebanon / Remote - EMEA</text>
-<text x="602" y="244" fill="#4D94FF" font-size="14" font-weight="700">Status<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="244" fill="#EDEDED" font-size="14">Available for contract work</text>
-<text x="602" y="288" fill="#10B981" font-size="13" font-weight="700" letter-spacing="0.5">-- Focus --</text>
-<text x="602" y="320" fill="#4D94FF" font-size="14" font-weight="700">Systems<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="320" fill="#EDEDED" font-size="14">AI platforms, multi-tenant, real-time</text>
-<text x="602" y="348" fill="#4D94FF" font-size="14" font-weight="700">Ownership<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="348" fill="#EDEDED" font-size="14">Schema to deploy, and after launch</text>
-<text x="602" y="376" fill="#4D94FF" font-size="14" font-weight="700">Languages<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="376" fill="#EDEDED" font-size="14">AR / EN</text>
-<text x="602" y="420" fill="#10B981" font-size="13" font-weight="700" letter-spacing="0.5">-- Contact --</text>
-<text x="602" y="452" fill="#4D94FF" font-size="14" font-weight="700">Email<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="452" fill="#EDEDED" font-size="14">w22a.work@gmail.com</text>
-<text x="602" y="480" fill="#4D94FF" font-size="14" font-weight="700">Site<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="480" fill="#EDEDED" font-size="14">walidadra.dev</text>
-<text x="602" y="508" fill="#4D94FF" font-size="14" font-weight="700">GitHub<tspan fill="#5A6472" font-weight="400"> :</tspan></text>
-<text x="730" y="508" fill="#EDEDED" font-size="14">Walidd22</text>
-<text x="602" y="552" fill="#10B981" font-size="13" font-weight="700" letter-spacing="0.5">-- Live.Stats --</text>
-<text x="602" y="580" fill="#5A6472" font-size="13">live cards + stats below <tspan fill="#10B981">v</tspan></text>
-<rect x="602" y="598" width="16" height="10" rx="2" fill="#0055FF"/>
-<rect x="624" y="598" width="16" height="10" rx="2" fill="#2979FF"/>
-<rect x="646" y="598" width="16" height="10" rx="2" fill="#4D94FF"/>
-<rect x="668" y="598" width="16" height="10" rx="2" fill="#10B981"/>
-<rect x="690" y="598" width="16" height="10" rx="2" fill="#34D399"/>
-<rect x="712" y="598" width="16" height="10" rx="2" fill="#EDEDED"/>
-<rect x="734" y="598" width="16" height="10" rx="2" fill="#5A6472"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Walid Adra — Full-Stack &amp; Platform Engineer, founder of WebRift">
+<title>Walid Adra — Full-Stack &amp; Platform Engineer</title>
+<defs>
+<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#2979FF"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+<radialGradient id="ga" cx="0.15" cy="0.1" r="0.7"><stop offset="0" stop-color="#2979FF" stop-opacity="0.35"/><stop offset="1" stop-color="#2979FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="gb" cx="0.92" cy="0.9" r="0.6"><stop offset="0" stop-color="#10B981" stop-opacity="0.22"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#16213A" stroke-width="1"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="gm"><rect width="1000" height="360" fill="url(#fade)"/></mask>
+<clipPath id="card"><rect width="1000" height="360" rx="18"/></clipPath>
+<style>
+.w1{animation:drift 14s linear infinite}.w2{animation:drift 22s linear infinite reverse}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-500px)}}
+.pulse{animation:pulse 2s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.w1,.w2,.pulse{animation:none}}
+</style>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1000" height="360" fill="#0A0A0E"/>
+<rect width="1000" height="360" fill="url(#grid)" mask="url(#gm)"/>
+<rect width="1000" height="360" fill="url(#ga)"/>
+<rect width="1000" height="360" fill="url(#gb)"/>
+<path class="w2" d="M0 322 Q62.5 308 125 322 T250 322 Q312.5 308 375 322 T500 322 Q562.5 308 625 322 T750 322 Q812.5 308 875 322 T1000 322 Q1062.5 308 1125 322 T1250 322 Q1312.5 308 1375 322 T1500 322 Q1562.5 308 1625 322 T1750 322 Q1812.5 308 1875 322 T2000 322 V400 H0 Z" fill="#10B981" opacity="0.162"/>
+<path class="w1" d="M0 330 Q62.5 318 125 330 T250 330 Q312.5 318 375 330 T500 330 Q562.5 318 625 330 T750 330 Q812.5 318 875 330 T1000 330 Q1062.5 318 1125 330 T1250 330 Q1312.5 318 1375 330 T1500 330 Q1562.5 318 1625 330 T1750 330 Q1812.5 318 1875 330 T2000 330 V400 H0 Z" fill="url(#acc)" opacity="0.28800000000000003"/>
+<rect y="0" width="1000" height="4" fill="url(#acc)"/>
+</g>
+<g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+<text x="500" y="78" fill="#4D94FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" letter-spacing="5">FOUNDER · WEBRIFT</text>
+<text x="500" y="172" fill="#FAFAFA" font-size="104" font-weight="700" letter-spacing="-1.5">Walid Adra</text>
+<text x="500" y="230" fill="#A7B3C6" font-size="42" font-weight="400">Full-Stack &amp; Platform Engineer</text>
+<text x="500" y="284" fill="#6F7C90" font-size="30"><tspan class="pulse" fill="#10B981">●</tspan> Tripoli, Lebanon · remote · open to work</text>
+</g>
 </svg>
