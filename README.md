@@ -86,26 +86,26 @@ Data-dense operator consoles, bilingual EN/AR with real RTL, installable PWAs, m
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 AI Marketing-Intelligence Platform
+#### 🧠 AI Marketing Platform
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
 
-Reads a client's analytics and commerce accounts, proposes campaigns and runs them on connected ad accounts. Nothing reaches a live account without two separate human approvals.
+Plans and runs ad campaigns. Two human approvals before anything goes live.
 
-`Python` `FastAPI` `LangGraph` `pgvector` `BigQuery` `dbt` `React 19` `Expo` `Terraform`
+`Python` `LangGraph` `pgvector` `Terraform`
 
-<sub>1,053 commits · 346 Python modules · 9 CI/CD workflows · 11 ADRs</sub>
+<sub>1,053 commits · 9 CI/CD workflows</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎙️ Bilingual AI Voice-Interview Engine
+#### 🎙️ AI Voice Interviewer
 <img src="https://img.shields.io/badge/BUILT%20%C2%B7%20NOT%20DEPLOYED-2979FF?style=flat-square" alt="BUILT · NOT DEPLOYED" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
 
-Runs real voice interviews in Arabic and English and returns evidence-cited assessments. A process killed mid-interview resumes exactly where it stopped.
+Live voice interviews in Arabic and English, with evidence-cited assessments.
 
-`Next.js 16` `React 19` `Drizzle` `Postgres` `Python` `Pipecat` `better-auth`
+`Next.js 16` `Postgres` `Python` `Pipecat`
 
-<sub>501 commits · 29 screens · 23 migrations · 72 test suites</sub>
+<sub>501 commits · 72 test suites</sub>
 
 </td>
 </tr>
@@ -115,33 +115,32 @@ Runs real voice interviews in Arabic and English and returns evidence-cited asse
 #### 🐟 [Mahramji](https://almahramji.com)
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Seafood restaurant on the Mina corniche. Guests scan a QR code for an EN/AR menu priced in dollars or lira; the owner runs the whole site from a dashboard.
+QR menu in English and Arabic for a seafood restaurant, run by the owner.
 
-`Next.js 16` `Supabase` `TOTP 2FA` `RLS` `Vercel`
+`Next.js 16` `Supabase` `RLS` `Vercel`
 
-<sub>172 commits · 67 dishes · 9 migrations · 90 tests</sub>
+<sub>172 commits · 90 tests</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧾 Ordering &amp; Delivery Platform
+#### 🧾 Ordering Platform
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Storefront, staff back-office and everything between: signed per-tab permissions, Redis in front of a hot menu, web push to the counter, WhatsApp checkout.
+Storefront, staff back-office, web push and WhatsApp checkout.
 
-`Next.js 16` `Supabase` `Redis` `Web Push` `JOSE`
+`Next.js 16` `Supabase` `Redis` `Web Push`
 
-<sub>114 commits · 13 screens · 22 API routes</sub>
+<sub>114 commits · 22 API routes</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" valign="top" align="center">
 
-#### 🛰️ [WebRift](https://webrift.dev) — agency site
-<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/OPEN%20SOURCE-0055FF?style=flat-square" alt="OPEN SOURCE" />
+#### 🛰️ [WebRift](https://webrift.dev) <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/OPEN%20SOURCE-0055FF?style=flat-square" alt="OPEN SOURCE" />
 
-The home of my studio: a hand-built animated site with no framework and no build step. &nbsp;`JavaScript` `GSAP` `Lenis` `CSS3` · [source](https://github.com/Walidd22/webrift-website)
+My studio's hand-built animated site, no framework. · [source](https://github.com/Walidd22/webrift-website)
 
 </td>
 </tr>
