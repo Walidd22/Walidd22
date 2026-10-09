@@ -171,24 +171,6 @@ The systems above have little in common except these rules. Each one says what t
 
 <sub>All eight, with the mechanism that enforces each → <a href="https://walidadra.dev/engineering.html">walidadra.dev/engineering</a></sub>
 
-## 💼 Experience
-
-- **Founder &amp; Full-Stack Engineer** · WebRift
-  <sub>Production platforms for founders, from architecture to deploy</sub>
-- **Full-Stack &amp; Platform Engineer** · AI platforms (NDA)
-  <sub>Decisioning services, operator consoles, infrastructure and CI/CD</sub>
-- **Lead Frontend Engineer** · real-time trading platform (contract)
-  <sub>Owned frontend delivery under deadline on live market surfaces</sub>
-- **Full-Stack Engineer** · ordering &amp; delivery platform
-  <sub>Schema to deploy, then maintained in production</sub>
-- **Software Engineering Intern** · Telecloud Vision, Beirut
-  <sub>First production code: code review, git flow, real users</sub>
-
-## 🤝 Open Source
-
-- **[jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision)** · [#23](https://github.com/jordanrendric/claude-video-vision/pull/23) <img src="https://img.shields.io/badge/MERGED-2979FF?style=flat-square" alt="MERGED" />
-  <sub>Local Whisper runs failed: `--language auto` isn't a valid value, and an unpinned `--output_dir` left files where the caller couldn't find them. Dropped the flag, pinned the directory.</sub>
-
 ## 📊 GitHub Analytics
 
 <p align="center"><sub>Most of my work lives in private client repositories. These cards include it and refresh daily.</sub></p>
