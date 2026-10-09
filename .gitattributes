@@ -1,0 +1,3 @@
+# Keep generated SVG/JSON/Markdown byte-identical across Windows and the Actions runner.
+* text=auto eol=lf
+*.png binary
