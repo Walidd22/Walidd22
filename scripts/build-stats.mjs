@@ -127,8 +127,14 @@ function shiftDays(iso, n) {
 function authoredShas(repo, dir) {
   const target = join(dir, repo.replace('/', '__'));
   try {
-    execFileSync('git', ['clone', '--quiet', '--bare', '--filter=blob:none',
-      `https://x-access-token:${TOKEN}@github.com/${repo}.git`, target], { stdio: 'ignore' });
+    // Token goes in a header with credential helpers disabled, so no OS credential
+    // manager ever sees it or pops up an account picker.
+    const basic = Buffer.from(`x-access-token:${TOKEN}`).toString('base64');
+    execFileSync('git', ['-c', 'credential.helper=', '-c', `http.extraHeader=Authorization: Basic ${basic}`,
+      'clone', '--quiet', '--bare', '--filter=blob:none', `https://github.com/${repo}.git`, target], {
+      stdio: 'ignore',
+      env: { ...process.env, GIT_TERMINAL_PROMPT: '0', GCM_INTERACTIVE: 'never' },
+    });
     const out = execFileSync('git', ['-C', target, 'log', '--all', '--format=%H %ae'], { encoding: 'utf8', maxBuffer: 1 << 28 });
     return out.split('\n').filter(Boolean)
       .map((line) => line.split(' '))
