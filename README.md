@@ -112,6 +112,44 @@ Live voice interviews in Arabic and English, with evidence-cited assessments.
 <tr>
 <td width="50%" valign="top">
 
+#### 📈 Real-Time Trading Platform
+<img src="https://img.shields.io/badge/CONTRACT-0891B2?style=flat-square" alt="CONTRACT" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
+
+Led the frontend: live market views and a referral &amp; rewards app.
+
+`React` `TypeScript` `NestJS` `Real-time`
+
+<sub>243 commits · lead frontend</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎬 AI Content Studio
+<img src="https://img.shields.io/badge/ACTIVE%20BUILD-2979FF?style=flat-square" alt="ACTIVE BUILD" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
+
+Local-first AI production studio, licensable as a private install.
+
+`Next.js 16` `Claude SDK` `Neo4j` `n8n`
+
+<sub>16 dashboards · 92-entity knowledge graph</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛍️ [Trendeall](https://trendeall.com)
+<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
+
+E-commerce store for premium lifestyle brands, run from a headless CMS.
+
+`Next.js 16` `Payload 3` `TypeScript` `Vercel`
+
+<sub>209 commits</sub>
+
+</td>
+<td width="50%" valign="top">
+
 #### 🐟 [Mahramji](https://almahramji.com)
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
@@ -122,6 +160,8 @@ QR menu in English and Arabic for a seafood restaurant, run by the owner.
 <sub>172 commits · 90 tests</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🧾 Ordering Platform
@@ -134,13 +174,38 @@ Storefront, staff back-office, web push and WhatsApp checkout.
 <sub>114 commits · 22 API routes</sub>
 
 </td>
+<td width="50%" valign="top">
+
+#### 🌍 Trade-Intelligence Platform
+<img src="https://img.shields.io/badge/ACTIVE%20BUILD-2979FF?style=flat-square" alt="ACTIVE BUILD" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
+
+Turns global trade data into one-page export-market reports.
+
+`Next.js 16` `TypeScript` `Data APIs` `PDF`
+
+<sub>Market, growth &amp; pricing analysis</sub>
+
+</td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
+<td width="50%" valign="top">
 
-#### 🛰️ [WebRift](https://webrift.dev) <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/OPEN%20SOURCE-0055FF?style=flat-square" alt="OPEN SOURCE" />
+#### 📸 Sadou Studio
+<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-D97706?style=flat-square" alt="IN DEVELOPMENT" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-My studio's hand-built animated site, no framework. · [source](https://github.com/Walidd22/webrift-website)
+AI fashion photoshoots: studio-grade product imagery without the studio.
+
+`Next.js 16` `Supabase` `Generative AI`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ [WebRift](https://webrift.dev)
+<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/OPEN%20SOURCE-0055FF?style=flat-square" alt="OPEN SOURCE" />
+
+My studio's hand-built animated site, no framework. [Source ↗](https://github.com/Walidd22/webrift-website)
+
+`JavaScript` `GSAP` `Lenis` `CSS3`
 
 </td>
 </tr>

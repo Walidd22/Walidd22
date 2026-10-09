@@ -5,7 +5,7 @@
 <rect x="0.5" y="0.5" width="399" height="209" rx="12" fill="#FFFFFF" stroke="#D9DFE8"/>
 <rect x="16" y="0.5" width="368" height="2" rx="1" fill="url(#g)"/>
 <text x="20" y="34" fill="#0E1624" font-size="15" font-weight="600">Monthly contributions</text>
-<text x="380" y="34" fill="#5A6678" font-size="12" text-anchor="end">2,260 this year</text>
+<text x="380" y="34" fill="#5A6678" font-size="12" text-anchor="end">last 12 months</text>
 <linearGradient id="bars" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0055FF"/><stop offset="1" stop-color="#059669"/></linearGradient>
 <line x1="20" y1="172.5" x2="380" y2="172.5" stroke="#D9DFE8"/>
 <g>

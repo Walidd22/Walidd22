@@ -2,20 +2,26 @@
 //
 //   GH_TOKEN=... node scripts/build-stats.mjs
 //
-// Calendar numbers (contributions, streaks, active days, monthly activity)
-// come from the public contribution calendar, which already counts private
-// work, so the default Actions token is enough for them.
-// Commits, pull requests, repositories and languages need a token that can
-// read the private repos. Without one, the last values in
+// Everything is all-time. Calendar numbers (contributions, streaks, active
+// days, monthly activity) come from the public contribution calendar, which
+// already counts private work, so the default Actions token is enough.
+// Commits are counted from history-only clones of every accessible repo,
+// across all branches and every author email in AUTHOR_EMAILS, de-duplicated
+// by SHA. Commits, pull requests, repositories and languages need a token that
+// can read the private repos; without one, the last values in
 // assets/data/stats.json are reused instead of being overwritten with
-// public-only numbers.
+// public-only numbers. Only totals are written, never repo names.
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, mkdtempSync, rmSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
+import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const USER = process.env.GH_USER || 'Walidd22';
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
+const AUTHOR_EMAILS = (process.env.AUTHOR_EMAILS || 'walid92.adra@gmail.com,w22a.work@gmail.com')
+  .split(',').map((e) => e.trim().toLowerCase());
 if (!TOKEN) throw new Error('GH_TOKEN is required');
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -48,18 +54,36 @@ async function graphql(query, variables = {}) {
 
 // ---------------------------------------------------------------- calendar
 
-async function calendarStats() {
-  const data = await graphql(
-    `query($login:String!){ user(login:$login){ contributionsCollection{
-       contributionCalendar{ totalContributions weeks{ contributionDays{ date contributionCount } } }
-     } } }`,
+async function calendarDays() {
+  const { user } = await graphql(
+    `query($login:String!){ user(login:$login){ contributionsCollection{ contributionYears } } }`,
     { login: USER },
   );
-  const cal = data.user.contributionsCollection.contributionCalendar;
-  const days = cal.weeks.flatMap((w) => w.contributionDays);
+  const days = [];
+  for (const year of user.contributionsCollection.contributionYears.sort()) {
+    const data = await graphql(
+      `query($login:String!,$from:DateTime!,$to:DateTime!){ user(login:$login){
+         contributionsCollection(from:$from,to:$to){ contributionCalendar{ weeks{ contributionDays{ date contributionCount } } } }
+       } }`,
+      { login: USER, from: `${year}-01-01T00:00:00Z`, to: `${year}-12-31T23:59:59Z` },
+    );
+    days.push(...data.user.contributionsCollection.contributionCalendar.weeks.flatMap((w) => w.contributionDays));
+  }
+  const today = new Date().toISOString().slice(0, 10);
+  const seen = new Set();
+  return days
+    .filter((d) => d.date <= today && !seen.has(d.date) && seen.add(d.date))
+    .sort((x, y) => x.date.localeCompare(y.date));
+}
 
-  let peak = 0, active = 0, best = 0, run = 0, bestEnd = null;
+async function calendarStats() {
+  const all = await calendarDays();
+  const first = all.findIndex((d) => d.contributionCount > 0);
+  const days = all.slice(Math.max(0, first));
+
+  let total = 0, peak = 0, active = 0, best = 0, run = 0, bestEnd = null;
   for (const d of days) {
+    total += d.contributionCount;
     peak = Math.max(peak, d.contributionCount);
     if (d.contributionCount > 0) {
       active++;
@@ -76,7 +100,7 @@ async function calendarStats() {
   }
 
   const months = new Map();
-  for (const d of days) {
+  for (const d of all) {
     const key = d.date.slice(0, 7);
     months.set(key, (months.get(key) || 0) + d.contributionCount);
   }
@@ -84,7 +108,7 @@ async function calendarStats() {
 
   const bestStart = bestEnd ? shiftDays(bestEnd, -(best - 1)) : null;
   return {
-    contributions: cal.totalContributions,
+    contributions: total,
     peak, active, best, current, bestStart, bestEnd,
     from: days[0].date, to: days.at(-1).date,
     monthly,
@@ -99,13 +123,20 @@ function shiftDays(iso, n) {
 
 // ------------------------------------------------- private-repo statistics
 
-async function countCommits(repo, since) {
-  const qs = `author=${USER}&per_page=1${since ? `&since=${since}` : ''}`;
-  const res = await gh(`/repos/${repo}/commits?${qs}`, { raw: true });
-  if (!res.ok) return 0; // empty (409) or inaccessible repo
-  const last = /[?&]page=(\d+)>; rel="last"/.exec(res.headers.get('link') || '');
-  if (last) return Number(last[1]);
-  return (await res.json()).length;
+// Unique commit SHAs authored by AUTHOR_EMAILS on any branch of a history-only clone.
+function authoredShas(repo, dir) {
+  const target = join(dir, repo.replace('/', '__'));
+  try {
+    execFileSync('git', ['clone', '--quiet', '--bare', '--filter=blob:none',
+      `https://x-access-token:${TOKEN}@github.com/${repo}.git`, target], { stdio: 'ignore' });
+    const out = execFileSync('git', ['-C', target, 'log', '--all', '--format=%H %ae'], { encoding: 'utf8', maxBuffer: 1 << 28 });
+    return out.split('\n').filter(Boolean)
+      .map((line) => line.split(' '))
+      .filter(([, email]) => AUTHOR_EMAILS.includes((email || '').toLowerCase()))
+      .map(([sha]) => sha);
+  } catch {
+    return []; // empty repository
+  }
 }
 
 async function searchCount(q) {
@@ -116,14 +147,19 @@ async function searchCount(q) {
 async function repoStats() {
   const res = await gh('/user/repos?per_page=100&affiliation=owner,collaborator,organization_member', { raw: true });
   if (!res.ok) return null; // token cannot see private repos
-  const repos = (await res.json()).filter((r) => !r.fork);
+  const all = await res.json();
+  const repos = all.filter((r) => !r.fork);
 
-  const since = new Date(Date.now() - 365 * 864e5).toISOString();
-  let commits = 0, commitsYear = 0;
+  // Forks are cloned too (work merged upstream lives there); SHAs de-duplicate.
+  const dir = mkdtempSync(join(tmpdir(), 'profile-stats-'));
+  const shas = new Set();
   const bytes = {};
+  try {
+    for (const r of all) for (const sha of authoredShas(r.full_name, dir)) shas.add(sha);
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
   for (const r of repos) {
-    commits += await countCommits(r.full_name);
-    commitsYear += await countCommits(r.full_name, since);
     const langs = await gh(`/repos/${r.full_name}/languages`).catch(() => ({}));
     for (const [lang, n] of Object.entries(langs)) bytes[lang] = (bytes[lang] || 0) + n;
   }
@@ -136,10 +172,9 @@ async function repoStats() {
 
   return {
     repos: repos.length,
-    commits,
-    commitsYear,
-    prs: await searchCount(`type:pr created:>=${since.slice(0, 10)}`),
-    prsMerged: await searchCount(`type:pr is:merged created:>=${since.slice(0, 10)}`),
+    commits: shas.size,
+    prs: await searchCount('type:pr'),
+    prsMerged: await searchCount('type:pr is:merged'),
     languages,
   };
 }
@@ -186,7 +221,7 @@ ${body}
 function statsCard(t, s) {
   const tiles = [
     [fmt(s.contributions), 'Contributions', t.blue],
-    [fmt(s.commitsYear), 'Commits', t.green],
+    [fmt(s.commits), 'Commits', t.green],
     [fmt(s.prs), 'Pull requests', t.cyan],
     [fmt(s.active), 'Active days', t.blue],
     [fmt(s.peak), 'Peak day', t.green],
@@ -201,8 +236,8 @@ function statsCard(t, s) {
 <text x="${x + 12}" y="${y + 52}" fill="${t.muted}" font-size="12">${label}</text>
 </g>`;
   }).join('\n');
-  return card(t, 'GitHub activity', 'last 12 months · incl. private', body,
-    `${fmt(s.contributions)} contributions, ${fmt(s.commitsYear)} commits, ${fmt(s.prs)} pull requests, ${s.active} active days, peak day ${s.peak}, ${s.repos} repositories`);
+  return card(t, 'GitHub activity', 'all time · incl. private', body,
+    `${fmt(s.contributions)} contributions, ${fmt(s.commits)} commits, ${fmt(s.prs)} pull requests, ${s.active} active days, peak day ${s.peak}, ${s.repos} repositories`);
 }
 
 function languagesCard(t, s) {
@@ -250,7 +285,7 @@ ${isMax ? `<text x="${(x + bw / 2).toFixed(1)}" y="${(base - h - 6).toFixed(1)}"
   const body = `<linearGradient id="bars" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="${t.blue}"/><stop offset="1" stop-color="${t.green}"/></linearGradient>
 <line x1="20" y1="${base + 0.5}" x2="${W - 20}" y2="${base + 0.5}" stroke="${t.border}"/>
 ${bars}`;
-  return card(t, 'Monthly contributions', `${fmt(s.contributions)} this year`, body,
+  return card(t, 'Monthly contributions', 'last 12 months', body,
     `Monthly contributions over the last 12 months, peaking at ${fmt(max)}`);
 }
 
@@ -259,7 +294,7 @@ function streakCard(t, s) {
   const r = 40, c = 2 * Math.PI * r;
   const filled = Math.min(1, s.current / Math.max(s.best, 1));
   const cols = [
-    { x: 70, value: fmt(s.active), label: 'Active days', sub: `${Math.round((s.active / 365) * 100)}% of the year`, color: t.blue },
+    { x: 70, value: fmt(s.active), label: 'Active days', sub: `${Math.round((s.active / (1 + (Date.parse(s.to) - Date.parse(s.from)) / 864e5)) * 100)}% of days`, color: t.blue },
     { x: 330, value: `${s.best}d`, label: 'Best streak', sub: s.bestStart ? `${d(s.bestStart)} – ${d(s.bestEnd)}` : '', color: t.green },
   ];
   const side = cols.map((k) => `<g>
@@ -283,12 +318,19 @@ ${side}`;
 // ------------------------------------------------------------------- main
 
 const cached = existsSync(CACHE) ? JSON.parse(readFileSync(CACHE, 'utf8')) : {};
-const calendar = await calendarStats();
+let calendar = await calendarStats();
+// The calendar only counts private work while "Private contributions" is enabled on
+// the profile. If it suddenly drops by more than half, keep the last good numbers.
+if (cached.contributions && calendar.contributions < cached.contributions * 0.5) {
+  console.warn(`Calendar dropped from ${cached.contributions} to ${calendar.contributions} — is "Private contributions" off? Keeping cached calendar stats.`);
+  calendar = {};
+}
 const repo = await repoStats();
 if (!repo) console.log('No private-repo access: reusing cached commits / PRs / languages.');
 
 const stats = { ...cached, ...calendar, ...(repo || {}), updated: new Date().toISOString() };
-for (const k of ['repos', 'commits', 'commitsYear', 'prs', 'languages']) {
+delete stats.commitsYear;
+for (const k of ['repos', 'commits', 'prs', 'languages']) {
   if (stats[k] === undefined) throw new Error(`Missing "${k}": run once with a token that can read private repos.`);
 }
 
