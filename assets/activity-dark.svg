@@ -64,7 +64,7 @@
 <text x="338.0" y="190" fill="#8994A6" font-size="11" text-anchor="middle">Sep</text>
 </g>
 <g>
-<rect x="357.3" y="156.2" width="22.7" height="15.8" rx="3" fill="url(#bars)"/>
+<rect x="357.3" y="154.8" width="22.7" height="17.2" rx="3" fill="url(#bars)"/>
 
 <text x="368.7" y="190" fill="#8994A6" font-size="11" text-anchor="middle">Oct</text>
 </g>
