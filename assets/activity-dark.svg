@@ -44,7 +44,7 @@
 <text x="215.3" y="190" fill="#8994A6" font-size="11" text-anchor="middle">Jun</text>
 </g>
 <g>
-<rect x="234.7" y="153.6" width="22.7" height="18.4" rx="3" fill="url(#bars)"/>
+<rect x="234.7" y="154.3" width="22.7" height="17.7" rx="3" fill="url(#bars)"/>
 
 <text x="246.0" y="190" fill="#8994A6" font-size="11" text-anchor="middle">Jul</text>
 </g>
