@@ -67,10 +67,16 @@ Bilingual EN/AR with real RTL, theme systems, mobile-first layouts tested on rea
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,supabase,prisma,redis,cloudflare,vercel,docker,githubactions,python,threejs,vitest,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Supabase, Prisma, Redis, Cloudflare, Vercel, Docker, GitHub Actions, Python, Three.js, Vitest, Git" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/core-light.svg" />
+    <img src="./assets/core-dark.svg" width="264" align="top" alt="Core stack: TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, Terraform, Tailwind, Google Cloud, Vercel, GitHub Actions, Git" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+    <img src="./assets/stack-dark.svg" width="520" align="top" alt="Toolbox: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C, C++, C#, PHP, Ruby, Swift, Dart, SQL, Bash, HTML5, CSS, React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Remix, Tailwind CSS, Sass, shadcn/ui, MUI, Bootstrap, Redux, TanStack Query, Vite, Webpack, Three.js, GSAP, Framer Motion, Storybook, Node.js, Bun, Deno, Express, NestJS, Fastify, FastAPI, Django, Flask, Spring Boot, Laravel, Rails, .NET, GraphQL, tRPC, Socket.IO, gRPC, Stripe, Auth0, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase, Prisma, Drizzle, Neo4j, Elasticsearch, DynamoDB, Cassandra, BigQuery, Snowflake, dbt, Apache Kafka, Apache Spark, Airflow, RabbitMQ, PyTorch, TensorFlow, Keras, Hugging Face, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter, LangChain, LangGraph, Claude, OpenAI, Gemini, Ollama, pgvector, Qdrant, MLflow, Power BI, Tableau, Looker, Metabase, Superset, Databricks, Google Analytics, Google Sheets, Hadoop, MLflow, React Native, Expo, Flutter, SwiftUI, Jetpack Compose, Electron, Tauri, PWA, Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Nginx, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Sentry, Linux, Ubuntu, Tailscale, n8n, Jest, Vitest, Playwright, Cypress, Pytest, Testing Library, ESLint, Prettier, SonarQube, Postman, Shopify, WooCommerce, Salesforce, HubSpot, Odoo, Zapier, Make, Airtable, WordPress, Strapi, Sanity, Contentful, Payload CMS, Twilio, Resend, SendGrid, Mailchimp, Slack, Keycloak, Git, GitHub, GitLab, VS Code, Figma, Notion, Jira, npm, pnpm, Yarn, Turborepo, Claude Code, Blender, Unity, Unreal Engine" />
+  </picture>
 </p>
-
-<p align="center"><sub>Also: Payload CMS · Drizzle · Neon · Zustand · TanStack Query · Zod · GSAP · Playwright · WebAssembly (AssemblyScript) · Claude API · n8n · Remotion · ffmpeg</sub></p>
 
 ## 🚀 Featured Work
 
