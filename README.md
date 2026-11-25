@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<a href="https://walidadra.dev"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" /><img src="./assets/header-dark.svg" alt="Walid Adra — Full-Stack &amp; Platform Engineer, founder of WebRift" width="100%" /></picture></a>
+<a href="https://walidadra.dev"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" /><img src="./assets/header-dark.svg" alt="Walid Adra — Full-Stack Software Engineer, founder of WebRift" width="100%" /></picture></a>
 
-<a href="https://walidadra.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2979FF&center=true&vCenter=true&width=560&lines=Systems+that+hold+under+load;AI+platforms+%C2%B7+multi-tenant+%C2%B7+real-time;Schema+to+deploy%2C+solo+or+leading;The+guardrails+are+the+work" alt="Systems that hold under load · AI platforms · multi-tenant · real-time" /></a>
+<a href="https://walidadra.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2979FF&center=true&vCenter=true&width=560&lines=Systems+that+hold+under+load;Commerce+%C2%B7+edge+%C2%B7+real-time+interfaces;Schema+to+deploy%2C+end+to+end;The+guardrails+are+the+work" alt="Systems that hold under load · commerce · edge · real-time interfaces" /></a>
 
 <a href="https://walidadra.dev"><img src="https://img.shields.io/badge/Portfolio-walidadra.dev-0055FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwWm02LjkgNmgtMi45NWExNS43IDE1LjcgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45IDhaTTEyIDQuMDRjLjgzIDEuMiAxLjQ4IDIuNTMgMS45MSAzLjk2aC0zLjgyYy40My0xLjQzIDEuMDgtMi43NiAxLjkxLTMuOTZaTTQuMjYgMTRhOC4yIDguMiAwIDAgMSAwLTRoMy4zOGExNi41IDE2LjUgMCAwIDAgMCA0SDQuMjZabS44MiAyaDIuOTVjLjMyIDEuMjUuNzggMi40NSAxLjM4IDMuNTZBOCA4IDAgMCAxIDUuMDggMTZabTIuOTUtOEg1LjA4YTggOCAwIDAgMSA0LjMzLTMuNTZBMTUuNyAxNS43IDAgMCAwIDguMDMgOFpNMTIgMTkuOTZBMTQuMSAxNC4xIDAgMCAxIDEwLjA5IDE2aDMuODJBMTQuMSAxNC4xIDAgMCAxIDEyIDE5Ljk2Wk0xNC4zNCAxNEg5LjY2YTE0LjcgMTQuNyAwIDAgMSAwLTRoNC42OGExNC43IDE0LjcgMCAwIDEgMCA0Wm0uMjUgNS41NmMuNi0xLjExIDEuMDYtMi4zMSAxLjM4LTMuNTZoMi45NWE4LjAzIDguMDMgMCAwIDEtNC4zMyAzLjU2Wk0xNi4zNiAxNGExNi41IDE2LjUgMCAwIDAgMC00aDMuMzhhOC4yIDguMiAwIDAgMSAwIDRoLTMuMzhaIi8%2BPC9zdmc%2B&labelColor=0A0A0E" alt="Portfolio" /></a>
 <a href="https://webrift.dev"><img src="https://img.shields.io/badge/Agency-webrift.dev-10B981?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwWm02LjkgNmgtMi45NWExNS43IDE1LjcgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45IDhaTTEyIDQuMDRjLjgzIDEuMiAxLjQ4IDIuNTMgMS45MSAzLjk2aC0zLjgyYy40My0xLjQzIDEuMDgtMi43NiAxLjkxLTMuOTZaTTQuMjYgMTRhOC4yIDguMiAwIDAgMSAwLTRoMy4zOGExNi41IDE2LjUgMCAwIDAgMCA0SDQuMjZabS44MiAyaDIuOTVjLjMyIDEuMjUuNzggMi40NSAxLjM4IDMuNTZBOCA4IDAgMCAxIDUuMDggMTZabTIuOTUtOEg1LjA4YTggOCAwIDAgMSA0LjMzLTMuNTZBMTUuNyAxNS43IDAgMCAwIDguMDMgOFpNMTIgMTkuOTZBMTQuMSAxNC4xIDAgMCAxIDEwLjA5IDE2aDMuODJBMTQuMSAxNC4xIDAgMCAxIDEyIDE5Ljk2Wk0xNC4zNCAxNEg5LjY2YTE0LjcgMTQuNyAwIDAgMSAwLTRoNC42OGExNC43IDE0LjcgMCAwIDEgMCA0Wm0uMjUgNS41NmMuNi0xLjExIDEuMDYtMi4zMSAxLjM4LTMuNTZoMi45NWE4LjAzIDguMDMgMCAwIDEtNC4zMyAzLjU2Wk0xNi4zNiAxNGExNi41IDE2LjUgMCAwIDAgMC00aDMuMzhhOC4yIDguMiAwIDAgMSAwIDRoLTMuMzhaIi8%2BPC9zdmc%2B&labelColor=0A0A0E" alt="WebRift" /></a>
@@ -22,16 +22,14 @@
 
 ## 👋 About Me
 
-I'm a full-stack and platform engineer in **Tripoli, Lebanon**, working remotely across EMEA hours.
+I'm a full-stack software engineer in **Tripoli, Lebanon**, working remotely across EMEA hours.
 
-I build systems where mistakes are expensive: money moving, personal data, decisions about people. I own them end to end, from the schema to the deploy, including the access model and the infrastructure underneath. I run **[WebRift](https://webrift.dev)**, a studio that ships production platforms for founders.
+I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, a studio that builds and operates stores and sites for clients, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
 
-Most of this year went into two AI platforms under NDA, so they appear below without client, product name or market. The engineering behind them is written up in full at **[walidadra.dev/engineering](https://walidadra.dev/engineering.html)**.
-
-- 🔭 &nbsp;**Building** — AI platforms under NDA · WebRift client work
-- 🎯 &nbsp;**Focus** — multi-tenant &amp; regulated systems · AI integration · platform delivery
+- 🔭 &nbsp;**Building** — WebRift client platforms · AI Content Studio
+- 🎯 &nbsp;**Focus** — commerce &amp; data integrity · edge infrastructure · interfaces that hold up on any phone
 - 🌍 &nbsp;**Languages** — English · Arabic (real RTL in production)
-- ⚡ &nbsp;**Open to** — contract &amp; freelance · remote · EMEA hours
+- ⚡ &nbsp;**Open to** — full-time, contract &amp; freelance · remote · EMEA hours
 
 ## 🧩 What I Build
 
@@ -39,28 +37,28 @@ Most of this year went into two AI platforms under NDA, so they appear below wit
 <tr>
 <td width="50%" valign="top">
 
-#### 🏢 Multi-tenant &amp; regulated
-Row-level security on every tenant table, append-only audit, capability grants, and residency gates that survive a change of cloud.
+#### 🛒 Commerce that can't oversell
+Checkout in one transaction, row locks on anything two buyers can claim at once, prices decided on the server, and caching that keeps a free-tier database alive.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 AI, ML &amp; BI
-Agent graphs, retrieval, real-time voice, trained models and BI dashboards, with human approval wherever the model can't be trusted alone.
+#### ☁️ Edge &amp; infrastructure
+Next.js on Vercel and Cloudflare Workers (R2, D1, Hyperdrive, Durable Objects), Postgres on Neon and Supabase, CI that gates lint, types, tests and build.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### ☁️ Platform &amp; infrastructure
-Containers, infrastructure as code, and CI that gates typecheck, lint, tests, secret scanning and static analysis.
+#### 🔐 Security &amp; reliability
+Row-level security, 2FA, rate limits that hold across instances, strict CSP, and encrypted backups that are restore-tested every night.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🖥️ Interfaces that hold up
-Data-dense operator consoles, bilingual EN/AR with real RTL, installable PWAs, motion and 3D.
+Bilingual EN/AR with real RTL, theme systems, mobile-first layouts tested on real iOS and Android quirks, motion and 3D, WCAG 2.2 AA.
 
 </td>
 </tr>
@@ -69,16 +67,10 @@ Data-dense operator consoles, bilingual EN/AR with real RTL, installable PWAs, m
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/core-light.svg" />
-    <img src="./assets/core-dark.svg" width="264" align="top" alt="Core stack: TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, Terraform, Tailwind, Google Cloud, Vercel, GitHub Actions, Git" />
-  </picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-    <img src="./assets/stack-dark.svg" width="520" align="top" alt="Toolbox: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C, C++, C#, PHP, Ruby, Swift, Dart, SQL, Bash, HTML5, CSS, React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Remix, Tailwind CSS, Sass, shadcn/ui, MUI, Bootstrap, Redux, TanStack Query, Vite, Webpack, Three.js, GSAP, Framer Motion, Storybook, Node.js, Bun, Deno, Express, NestJS, Fastify, FastAPI, Django, Flask, Spring Boot, Laravel, Rails, .NET, GraphQL, tRPC, Socket.IO, gRPC, Stripe, Auth0, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase, Prisma, Drizzle, Neo4j, Elasticsearch, DynamoDB, Cassandra, BigQuery, Snowflake, dbt, Apache Kafka, Apache Spark, Airflow, RabbitMQ, PyTorch, TensorFlow, Keras, Hugging Face, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter, LangChain, LangGraph, Claude, OpenAI, Gemini, Ollama, pgvector, Qdrant, MLflow, Power BI, Tableau, Looker, Metabase, Superset, Databricks, Google Analytics, Google Sheets, Hadoop, MLflow, React Native, Expo, Flutter, SwiftUI, Jetpack Compose, Electron, Tauri, PWA, Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Nginx, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Sentry, Linux, Ubuntu, Tailscale, n8n, Jest, Vitest, Playwright, Cypress, Pytest, Testing Library, ESLint, Prettier, SonarQube, Postman, Shopify, WooCommerce, Salesforce, HubSpot, Odoo, Zapier, Make, Airtable, WordPress, Strapi, Sanity, Contentful, Payload CMS, Twilio, Resend, SendGrid, Mailchimp, Slack, Keycloak, Git, GitHub, GitLab, VS Code, Figma, Notion, Jira, npm, pnpm, Yarn, Turborepo, Claude Code, Blender, Unity, Unreal Engine" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,supabase,prisma,redis,cloudflare,vercel,docker,githubactions,python,threejs,vitest,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Supabase, Prisma, Redis, Cloudflare, Vercel, Docker, GitHub Actions, Python, Three.js, Vitest, Git" />
 </p>
+
+<p align="center"><sub>Also: Payload CMS · Drizzle · Neon · Zustand · TanStack Query · Zod · GSAP · Playwright · WebAssembly (AssemblyScript) · Claude API · n8n · Remotion · ffmpeg</sub></p>
 
 ## 🚀 Featured Work
 
@@ -86,40 +78,40 @@ Data-dense operator consoles, bilingual EN/AR with real RTL, installable PWAs, m
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 AI Marketing Platform
-<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
+#### 🛍️ [Trendeall](https://trendeall.com)
+<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Plans and runs ad campaigns. Two human approvals before anything goes live.
+E-commerce platform: checkout safe under concurrency, nightly encrypted backups with a restore test.
 
-`Python` `LangGraph` `pgvector` `Terraform`
+`Next.js 16` `Payload 3` `Neon Postgres` `R2`
 
-<sub>1,053 commits · 9 CI/CD workflows</sub>
+<sub>21 collections · 42 migrations · ~340 tests</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎙️ AI Voice Interviewer
-<img src="https://img.shields.io/badge/BUILT%20%C2%B7%20NOT%20DEPLOYED-2979FF?style=flat-square" alt="BUILT · NOT DEPLOYED" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
+#### 👟 [HypeWalk](https://hypewalk.store)
+<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Live voice interviews in Arabic and English, with evidence-cited assessments.
+Sneaker store migrated from Vercel to Cloudflare Workers, with a custom WebAssembly image kernel to fit 128 MB.
 
-`Next.js 16` `Postgres` `Python` `Pipecat`
+`Cloudflare Workers` `Hyperdrive` `R2` `AssemblyScript`
 
-<sub>501 commits · 72 test suites</sub>
+<sub>~500 unit + 59 Playwright tests</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📈 Real-Time Trading Platform
-<img src="https://img.shields.io/badge/CONTRACT-0891B2?style=flat-square" alt="CONTRACT" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
+#### 📈 Aris AI — Trading Platform
+<img src="https://img.shields.io/badge/FREELANCE-0891B2?style=flat-square" alt="FREELANCE" />
 
-Led the frontend: live market views and a referral &amp; rewards app.
+Owned UI/UX and the visual layer: theme system, mobile live-trading layout, fullscreen charts.
 
-`React` `TypeScript` `NestJS` `Real-time`
+`React` `TypeScript` `Zustand` `Socket.IO`
 
-<sub>243 commits · lead frontend</sub>
+<sub>37 routes · 220 components</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -127,108 +119,59 @@ Led the frontend: live market views and a referral &amp; rewards app.
 #### 🎬 AI Content Studio
 <img src="https://img.shields.io/badge/ACTIVE%20BUILD-2979FF?style=flat-square" alt="ACTIVE BUILD" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Local-first AI production studio, licensable as a private install.
+Automated video production: script → voice → video → publish, with Claude models routed by task.
 
-`Next.js 16` `Claude SDK` `Neo4j` `n8n`
+`Next.js 16` `Claude API` `SQLite + Litestream` `n8n`
 
-<sub>16 dashboards · 92-entity knowledge graph</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛍️ [Trendeall](https://trendeall.com)
-<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
-
-E-commerce store for premium lifestyle brands, run from a headless CMS.
-
-`Next.js 16` `Payload 3` `TypeScript` `Vercel`
-
-<sub>209 commits</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🐟 [Mahramji](https://almahramji.com)
-<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
-
-QR menu in English and Arabic for a seafood restaurant, run by the owner.
-
-`Next.js 16` `Supabase` `RLS` `Vercel`
-
-<sub>172 commits · 90 tests</sub>
+<sub>224 API routes · ~1,300 tests</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧾 Ordering Platform
-<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
+#### 🐟 [Al Mahramji](https://almahramji.com)
+<img src="https://img.shields.io/badge/CLIENT-10B981?style=flat-square" alt="CLIENT" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Storefront, staff back-office, web push and WhatsApp checkout.
+Bilingual QR menu and CMS for a seafood restaurant, run by the owner.
 
-`Next.js 16` `Supabase` `Redis` `Web Push`
+`Next.js 16` `Supabase` `RLS` `TOTP 2FA`
 
-<sub>114 commits · 22 API routes</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌍 Trade-Intelligence Platform
-<img src="https://img.shields.io/badge/ACTIVE%20BUILD-2979FF?style=flat-square" alt="ACTIVE BUILD" /> <img src="https://img.shields.io/badge/NDA-30363D?style=flat-square" alt="NDA" />
-
-Turns global trade data into one-page export-market reports.
-
-`Next.js 16` `TypeScript` `Data APIs` `PDF`
-
-<sub>Market, growth &amp; pricing analysis</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📸 Sadou Studio
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-D97706?style=flat-square" alt="IN DEVELOPMENT" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
-
-AI fashion photoshoots: studio-grade product imagery without the studio.
-
-`Next.js 16` `Supabase` `Generative AI`
+<sub>23 tables under row-level security</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛰️ [WebRift](https://webrift.dev)
-<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/OPEN%20SOURCE-0055FF?style=flat-square" alt="OPEN SOURCE" />
+#### 🛰️ [WebRift](https://webrift.dev) &amp; [walidadra.dev](https://walidadra.dev)
+<img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" />
 
-My studio's hand-built animated site, no framework. [Source ↗](https://github.com/Walidd22/webrift-website)
+Hand-built studio and portfolio sites, no framework. Mobile LCP 2.29 s on throttled 4G.
 
-`JavaScript` `GSAP` `Lenis` `CSS3`
+`JavaScript` `GSAP` `three.js` `Vercel Functions`
+
+<sub>534 Playwright tests · WCAG 2.2 AA</sub>
 
 </td>
 </tr>
 </table>
 
+**Open source:** merged fix to [claude-video-vision #23](https://github.com/jordanrendric/claude-video-vision/pull/23), a Claude Code video plugin (Whisper `--language auto` and `--output_dir`).
+
 ## 📐 Engineering Principles
 
-The systems above have little in common except these rules. Each one says what the system is **not allowed** to do, because a rule enforced by good intentions only shows up in an incident report.
+1. **Money and stock change in one transaction, or not at all.**
+2. **Every read on a page view has a price.** Cache it before the bill or the outage arrives.
+3. **A backup nobody has restored is a hope, not a backup.**
+4. **Access is a grant,** never a URL somebody could guess.
+5. **Measure on the slowest phone first.**
+6. **A test that can't fail isn't a test.**
 
-1. **No automated system spends a client's money on its own.**
-2. **Regulated data does not leave the jurisdiction it was collected in.**
-3. **Row-level security nobody has attacked is a comment, not a control.**
-4. **History is append-only.** Audit writes go through triggers, not app code.
-5. **Access is a grant,** never a URL somebody could guess.
-6. **A value that maps to money comes from a closed registry,** never free text.
-7. **Long-running state is derived,** never remembered.
-8. **What isn't built is visibly absent,** never simulated.
+<sub>How each one is enforced in real systems → <a href="https://walidadra.dev/engineering.html">walidadra.dev/engineering</a></sub>
 
-<sub>All eight, with the mechanism that enforces each → <a href="https://walidadra.dev/engineering.html">walidadra.dev/engineering</a></sub>
 
 ## 📊 GitHub Analytics
 
-<p align="center"><sub>Most of my work lives in private client repositories. These cards include it and refresh daily.</sub></p>
+<p align="center"><sub>Most of my work lives in private client repositories. These cards count it without naming it, and refresh daily.</sub></p>
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" /><img src="./assets/stats-dark.svg" alt="GitHub activity over the last 12 months" /></picture>
