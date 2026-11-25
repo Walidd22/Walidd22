@@ -155,7 +155,7 @@ Hand-built studio and portfolio sites, no framework. Mobile LCP 2.29 s on thrott
 </tr>
 </table>
 
-**Open source:** merged fix to [claude-video-vision #23](https://github.com/jordanrendric/claude-video-vision/pull/23), a Claude Code video plugin (Whisper `--language auto` and `--output_dir`).
+**Open source:** merged fix to [claude-video-vision #23](https://github.com/jordanrendric/claude-video-vision/pull/23), a Claude Code video plugin: fixed local Whisper transcription by dropping an unsupported flag and pinning the output directory.
 
 ## 📐 Engineering Principles
 
