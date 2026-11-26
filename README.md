@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a self-taught full-stack software developer in **Tripoli, Lebanon**, coding since 2019 and working remotely across EMEA hours. I don't have an engineering degree yet; I take on engineering-level work, and becoming a software engineer is where I'm heading.
+I'm a self-taught full-stack software developer in **Tripoli, Lebanon**, coding since 2020 and working remotely across EMEA hours. I don't have an engineering degree yet; I take on engineering-level work, and becoming a software engineer is where I'm heading.
 
 I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, my solo software agency: online stores, restaurant platforms, websites and AI tools, built for clients from scratch. As a freelancer I built an AI voice-interview HR platform for a client, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
 
