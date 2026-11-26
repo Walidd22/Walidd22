@@ -24,7 +24,7 @@
 
 I'm a full-stack software engineer in **Tripoli, Lebanon**, working remotely across EMEA hours.
 
-I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, my solo software agency: online stores, restaurant platforms, websites and AI tools, built for clients from scratch. As a freelancer I built **ASCO**'s AI HR assessment platform, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
+I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, my solo software agency: online stores, restaurant platforms, websites and AI tools, built for clients from scratch. As a freelancer I built an AI voice-interview HR platform for a client, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
 
 - 🔭 &nbsp;**Building** — WebRift client platforms · WebRift OS
 - 🎯 &nbsp;**Focus** — commerce &amp; data integrity · edge infrastructure · interfaces that hold up on any phone
