@@ -159,32 +159,6 @@ Hand-built agency and portfolio sites, no framework. Mobile LCP 2.29 s on thrott
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎙️ ASCO — AI HR Assessment Platform
-<img src="https://img.shields.io/badge/FREELANCE-0891B2?style=flat-square" alt="FREELANCE" />
-
-Built solo: bilingual Arabic/English recruitment and workforce classification, with live AI voice interviews and evidence-cited scorecards.
-
-`Next.js` `TypeScript` `PostgreSQL` `Voice AI`
-
-<sub>Freelance · Aug – Sep 2026</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌿 [Argan Blends](https://argan-blends.vercel.app)
-<img src="https://img.shields.io/badge/CLIENT-10B981?style=flat-square" alt="CLIENT" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
-
-Bilingual Arabic/English hair-care store: a bundle builder, memberships and rewards, and a guided routine quiz.
-
-`Next.js 16` `Payload 3` `PostgreSQL` `RTL`
-
-<sub>Built from scratch for the client</sub>
-
-</td>
-</tr>
 </table>
 
 **Open source:** merged fix to [claude-video-vision #23](https://github.com/jordanrendric/claude-video-vision/pull/23), a Claude Code video plugin: fixed local Whisper transcription by dropping an unsupported flag and pinning the output directory.
