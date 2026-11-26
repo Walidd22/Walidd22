@@ -87,7 +87,7 @@ Bilingual EN/AR with real RTL, theme systems, mobile-first layouts tested on rea
 #### 🛍️ [Trendeall](https://trendeall.com)
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-E-commerce platform: checkout safe under concurrency, nightly encrypted backups with a restore test.
+A retail client's e-commerce platform, built from scratch: checkout safe under concurrency, nightly encrypted backups with a restore test.
 
 `Next.js 16` `Payload 3` `Neon Postgres` `R2`
 
@@ -99,7 +99,7 @@ E-commerce platform: checkout safe under concurrency, nightly encrypted backups 
 #### 👟 [HypeWalk](https://hypewalk.store)
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Sneaker store migrated from Vercel to Cloudflare Workers, with a custom WebAssembly image kernel to fit 128 MB.
+A retail client's sneaker store, migrated from Vercel to Cloudflare Workers, with a custom WebAssembly image kernel to fit 128 MB.
 
 `Cloudflare Workers` `Hyperdrive` `R2` `AssemblyScript`
 
@@ -139,7 +139,7 @@ The private operating system that runs the agency: leads, proposals, pricing, in
 #### 🐟 [Al Mahramji](https://almahramji.com)
 <img src="https://img.shields.io/badge/CLIENT-10B981?style=flat-square" alt="CLIENT" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Bilingual QR menu and CMS for a seafood restaurant, run by the owner.
+A restaurant client's bilingual QR menu and CMS, built end to end and maintained; the owner runs it.
 
 `Next.js 16` `Supabase` `RLS` `TOTP 2FA`
 
