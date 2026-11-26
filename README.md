@@ -24,9 +24,9 @@
 
 I'm a full-stack software engineer in **Tripoli, Lebanon**, working remotely across EMEA hours.
 
-I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, a studio that builds and operates stores and sites for clients, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
+I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, my solo software agency: online stores, restaurant platforms, websites and AI tools, built for clients from scratch. As a freelancer I built **ASCO**'s AI HR assessment platform, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
 
-- 🔭 &nbsp;**Building** — WebRift client platforms · AI Content Studio
+- 🔭 &nbsp;**Building** — WebRift client platforms · WebRift OS
 - 🎯 &nbsp;**Focus** — commerce &amp; data integrity · edge infrastructure · interfaces that hold up on any phone
 - 🌍 &nbsp;**Languages** — English · Arabic (real RTL in production)
 - ⚡ &nbsp;**Open to** — full-time, contract &amp; freelance · remote · EMEA hours
@@ -122,10 +122,10 @@ Owned UI/UX and the visual layer: theme system, mobile live-trading layout, full
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 AI Content Studio
-<img src="https://img.shields.io/badge/ACTIVE%20BUILD-2979FF?style=flat-square" alt="ACTIVE BUILD" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
+#### 🧭 WebRift OS
+<img src="https://img.shields.io/badge/IN%20DAILY%20USE-2979FF?style=flat-square" alt="IN DAILY USE" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
 
-Automated video production: script → voice → video → publish, with Claude models routed by task.
+The private operating system that runs the agency: leads, proposals, pricing, invoicing, automated video production, and AI agents that route each task to a local or cloud model.
 
 `Next.js 16` `Claude API` `SQLite + Litestream` `n8n`
 
@@ -151,11 +151,37 @@ Bilingual QR menu and CMS for a seafood restaurant, run by the owner.
 #### 🛰️ [WebRift](https://webrift.dev) &amp; [walidadra.dev](https://walidadra.dev)
 <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="LIVE" />
 
-Hand-built studio and portfolio sites, no framework. Mobile LCP 2.29 s on throttled 4G.
+Hand-built agency and portfolio sites, no framework. Mobile LCP 2.29 s on throttled 4G.
 
-`JavaScript` `GSAP` `three.js` `Vercel Functions`
+`JavaScript` `GSAP` `three.js` `Cloudflare Workers`
 
 <sub>534 Playwright tests · WCAG 2.2 AA</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ ASCO — AI HR Assessment Platform
+<img src="https://img.shields.io/badge/FREELANCE-0891B2?style=flat-square" alt="FREELANCE" />
+
+Built solo: bilingual Arabic/English recruitment and workforce classification, with live AI voice interviews and evidence-cited scorecards.
+
+`Next.js` `TypeScript` `PostgreSQL` `Voice AI`
+
+<sub>Freelance · Aug – Sep 2026</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌿 [Argan Blends](https://argan-blends.vercel.app)
+<img src="https://img.shields.io/badge/CLIENT-10B981?style=flat-square" alt="CLIENT" /> <img src="https://img.shields.io/badge/SOURCE%20PRIVATE-30363D?style=flat-square" alt="SOURCE PRIVATE" />
+
+Bilingual Arabic/English hair-care store: a bundle builder, memberships and rewards, and a guided routine quiz.
+
+`Next.js 16` `Payload 3` `PostgreSQL` `RTL`
+
+<sub>Built from scratch for the client</sub>
 
 </td>
 </tr>
