@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://walidadra.dev"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" /><img src="./assets/header-dark.svg" alt="Walid Adra — Full-Stack Software Engineer, founder of WebRift" width="100%" /></picture></a>
+<a href="https://walidadra.dev"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" /><img src="./assets/header-dark.svg" alt="Walid Adra — Full-Stack Software Developer, founder of WebRift" width="100%" /></picture></a>
 
 <a href="https://walidadra.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2979FF&center=true&vCenter=true&width=560&lines=Systems+that+hold+under+load;Commerce+%C2%B7+edge+%C2%B7+real-time+interfaces;Schema+to+deploy%2C+end+to+end;The+guardrails+are+the+work" alt="Systems that hold under load · commerce · edge · real-time interfaces" /></a>
 
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a full-stack software engineer in **Tripoli, Lebanon**, working remotely across EMEA hours.
+I'm a self-taught full-stack software developer in **Tripoli, Lebanon**, coding since 2019 and working remotely across EMEA hours. I don't have an engineering degree yet; I take on engineering-level work, and becoming a software engineer is where I'm heading.
 
 I build and run production web systems end to end: the data model, the API, the interface, the deploy, and the security, tests and backups that keep a live business running. I run **[WebRift](https://webrift.dev)**, my solo software agency: online stores, restaurant platforms, websites and AI tools, built for clients from scratch. As a freelancer I built an AI voice-interview HR platform for a client, and I owned the UI/UX layer of **Aris AI**, a real-time trading platform.
 

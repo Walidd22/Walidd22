@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Walid Adra — Full-Stack Software Engineer, founder of WebRift">
-<title>Walid Adra — Full-Stack Software Engineer</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Walid Adra — Full-Stack Software Developer, founder of WebRift">
+<title>Walid Adra — Full-Stack Software Developer</title>
 <defs>
 <linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#2979FF"/><stop offset="1" stop-color="#10B981"/></linearGradient>
 <radialGradient id="ga" cx="0.15" cy="0.1" r="0.7"><stop offset="0" stop-color="#2979FF" stop-opacity="0.35"/><stop offset="1" stop-color="#2979FF" stop-opacity="0"/></radialGradient>
@@ -27,7 +27,7 @@
 <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
 <text x="500" y="78" fill="#4D94FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" letter-spacing="5">FOUNDER · WEBRIFT</text>
 <text x="500" y="172" fill="#FAFAFA" font-size="104" font-weight="700" letter-spacing="-1.5">Walid Adra</text>
-<text x="500" y="230" fill="#A7B3C6" font-size="42" font-weight="400">Full-Stack Software Engineer</text>
+<text x="500" y="230" fill="#A7B3C6" font-size="42" font-weight="400">Full-Stack Software Developer</text>
 <text x="500" y="284" fill="#6F7C90" font-size="30"><tspan class="pulse" fill="#10B981">●</tspan> Tripoli, Lebanon · remote · open to work</text>
 </g>
 </svg>
